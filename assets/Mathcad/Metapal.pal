@@ -1,0 +1,220 @@
+.MCAD 304020000 1 74 516 0
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,21
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Filename: METAPAL.PAL}}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,25
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Palette: Math Metapalette}}
+.TXT 0 21 373 0 0
+Cg a73.000000,73.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;}{\fonttbl{\f0\fcharset0
+\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}\plain\cf1\fs24 \pard {
+\f1\fs20 .FloatAny}}
+.TXT 6 -21 19 0 0
+Cg a73.000000,73.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Position}}
+.TXT 0 9 3 0 0
+Cg a70.000000,70.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Bitmap}}
+.TXT 0 12 473 0 0
+Cg a55.000000,55.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Description}}
+.TXT 0 31 481 0 0
+Cg a21.000000,21.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Invoke}}
+.EQN 2 -43 495 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!DG3m#QCqCqCqCqBC6k!!DG3m#QAa#%!-!!BC6k,'DG3m#QC-#-6w8/BC7O!!DG3m#QC]#06w@?BC6k!!DG3m#QCqCqCqCqBC6k!!DG3m#QAa#%!-!!BC8;#eDG3m#QC-#-6w8/BC7/&kDG3m#QC]#06w@?BC6~!!DG3m#Q
+CqCqCqCqBC7^!!DG3m#QAa#%!-!!BC8Q!!DG3m#QC-#-6w8/BC6k!!DG3m#QC]#06w@?BC6k!!DG3m#QCqCqCqCqBC6k!QDG3m#Q.II_I_I_BC6k#UDG3m#Q-t@z@z@}BC6k#UDG3m#Q-A87878=BC6k#UDG3m#Q,[,[,[,[BC6k!!>{5Y%)"QG."C%2!<#p!(9R8/6k!96l(?%9"3"<"k6l"#$+
+
+.ATT
+.STATUS Arithmetic Palette
+.PALETTE arith.pal
+.ATT_END
+.EQN 2 -8 488 0 0
+1
+.TXT 0 20 472 0 0
+Cg a53.000000,53.000000,10
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Arithmetic}}
+.TXT 0 31 480 0 0
+Cg a21.000000,21.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 arith.pal}}
+.EQN 3 -43 494 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y%1!99U;%-A!7.\IqDG5Y%1!99U;%-A!7.\Iq4'5Y=a!7.\IqDG5Y%1!99U;%-A!7.\IqDG5Y%1!99U;%-A!71BAa.[5Y=a!A!,!(9V8/%*!R#f%)'u#5"1-A878780#v#v%+2R"3"<
+!5,!8/%)#5"17Q878780#}8780&d#5"1,[,[,[80#v%18/"K#5"1,[,[,[876|#v8=#S#5"187,_878787#v%+<W#5"1,[,[,[8787#v%/,{#5"1,[,[,[876|#v8/+}#5"18787,_80#v%1889Q#5"187877Q80#}878/!!"S"<!i6l-90'!A!Q
+
+.ATT
+.STATUS Evaluation and Boolean Palette
+.PALETTE equal.pal
+.ATT_END
+.EQN 2 -8 487 0 0
+2
+.TXT 0 20 471 0 0
+Cg a54.000000,54.000000,22
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Evaluation and Boolean}}
+.TXT 0 31 479 0 0
+Cg a22.000000,22.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 equal.pal}}
+.EQN 3 -43 493 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!>{5Y-A!9!&8/#u!1#r!'HX87IY!!878787&e9^!(9R8?*[!9!&8/#g!1!.!'HX879?6s8787877e,$!'HW:{876s878787LVI~!'HW:{8=G5878787CqAn!'HW:{876t:{8787!!!.!'HW8G87Hg8G8787876x!'HW8G87
+9Y888787&m&X!'HO8G879_88876s;-6x!'G-"S!!!!!*!!!!.C?*!'HO88886yHW:{6s(0An!'HW88886s87:{87%!!.!'HW87;-6sIY8G87A=<D!(9U8/%)!I6l8?*[!?1N!'HW87876s9?8G87$fG:!'HW87876s878G87)d1N!'HW87876s8=HX87)d1N!'HW8787!!878887/M#r!'HW87876s87IZ87&o?M
+
+.ATT
+.STATUS Graph Palette
+.PALETTE graph.pal
+.ATT_END
+.EQN 2 -8 486 0 0
+3
+.TXT 0 20 470 0 0
+Cg a53.000000,53.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Graphing}}
+.TXT 0 31 478 0 0
+Cg a22.000000,22.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 graph.pal}}
+.EQN 3 -43 492 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m6k"K87878/!)7rIqDG3m6s878787876s7rIqDG3m6s878787876s7rIqDG3m6s8H83-A;-6s7rIqDG3m6s8H83-A;-6s6k!!DG3m6s878787876s6k!!DG3m6s878787876s6k!!DG
+3m6s7Q83-A;-6s6k!!DG3m6s7Q83-A;-6s6k!!DG3m6s878787876s6k!!DG3m6s878787876s6k!!DG3m6s8H83-A;-6s6k!!DG3m6s8H83-A;-6s6k!!DG3m6s878787876s6k!!DG3m6s878787876s6k!!DG3m6k"K87878/!)7O,74'5Y=a!2!"!14'5Y=a!3#f=l!Q
+
+.ATT
+.STATUS Vector and Matrix Palette
+.PALETTE vect.pal
+.ATT_END
+.EQN 2 -8 485 0 0
+4
+.TXT 0 20 469 0 0
+Cg a53.000000,53.000000,20
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Vectors and Matrices}}
+.TXT 0 31 477 0 0
+Cg a19.000000,19.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 vect.pal}}
+.EQN 3 -43 491 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!4#fL'>{5Y%1!5+}8/%#!:.h!'HS7Q80#v%*8087+hDT!'HW7Q808087%*87,Z)>!'HW7Q8080877%873E)>!'HW7Q87%1%17%87't#r!'HW7Q876|%1#v87;O<D!'HW7Q8787%18787(1G:!'HW7Q87877%8787
+6f<D!'HW7Q80#v#v#v#}7W&X!'HW7Q87876|8787!!!.!'HW7Q87877%%187!!!.!'HW7Q87#v#}7%87!!!.!'HW7Q87%1%16|87!!!.!'HW7Q87%1%17%%1!!!.!'HW7Q877%7%7%%1!!!.!'HW7Q8780#}#}%1!!!.!'HW837U877%8787!!!.!'HW87-A87808787!!!*!(9W8/#v!Y6m!$!Q
+
+.ATT
+.STATUS Calculus Palette
+.PALETTE calc.pal
+.ATT_END
+.EQN 2 -8 484 0 0
+5
+.TXT 0 20 468 0 0
+Cg a53.000000,53.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Calculus}}
+.TXT 0 31 476 0 0
+Cg a21.000000,21.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 calc.pal}}
+.EQN 3 -43 490 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!9Q5Y*[!9Ag8/&K"s"<!Y6lCU%q!y6m!!DG3m878zKq8787877/&kDG3m87CdA\C.;.;-6|#uDG3m878zKq87878G6k!!DG3m878;A)87878G878/DG3m8787C-87878G6k!!9Q5Y87!99R8/&K#5"187878G8787888/!!
+#5"18787;.8787888/!!#5"18788;.:{87888/!!#5"187878G87878884/R#5"187878G8787888/!!"3"<"K6l8?*[#5"1878{CqCm87:|8/!!#5"1878zKtA)88:|8/!!#5"1878~A\K}8H;.8/!!#5"1878zKtA)88:{8/!!#5"1878{CqCm87:{8/!!!q"<"k6m!$!Q
+
+.ATT
+.STATUS Programming Palette
+.PALETTE progr.pal
+.ATT_END
+.EQN 2 -8 483 0 0
+6
+.TXT 0 20 467 0 0
+Cg a55.000000,55.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Programming}}
+.TXT 0 31 475 0 0
+Cg a19.000000,19.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 progr.pal}}
+.EQN 3 -43 489 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!>{5Y0'!9#f%)*[!E&X!(9V8/%*!26n8/#u!1#r!'HW878787#v#v87&e9^!'HW,[-=,_#v%*%1!!!.!'HS-A,[876|87#}!!!.!'HS-A7Q876|87#}!!!.!'HS-A7Q-A6|87#}!!!.
+!'HS-A7Q,_6|87#}!!!.!'HW,_,_,_80#v%1!!!.!'HW7Q,_,_80%1#}!!!.!'HW87878780%17%!!!,!(9X8/#v!96l%)&K"s"<";6l6{#v!26m!!.[5Y=a!A!(!(9[8/#g!3&R!(9[8/$K!1!(!(9[8/#u!17=
+
+.ATT
+.STATUS Greek Symbol Palette
+.PALETTE greek.pal
+.ATT_END
+.EQN 2 -8 482 0 0
+7
+.TXT 0 20 466 0 0
+Cg a56.000000,56.000000,13
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Greek letters}}
+.TXT 0 31 474 0 0
+Cg a22.000000,22.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 greek.pal}}
+.EQN 3 -43 516 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQDG5\#$!@Is!!&J!A!'AQDG5\#$!@Is!!&J!A!'AQDG5\#$!@Is!!&J!A!'AR.[5Z(N"S!$AQ9Q"^IrLG&K!@Is!!3D$7"<#0I}!!;T#%!$AQ*R!@Is!!3D$W"<#0Iz!!3D!Q!'AQ9Q".IrLG&K".J(!(9]AQ)1".J"!!3D!Q!'AQ%(!A!'AQDG5YKt%Y!*AQ&J!A!'AQDG5Y;T']!$AQ%(!A!'AQ4'5Y3D(_!*AQ4'5Y;T
+']!-AQ4'5YKt%Y!3AQ4'5Z0^#U!9AQ4'5Z@~!Q!?AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Symbolic Keyword Palette
+.PALETTE keywords.pal
+.ATT_END
+.EQN 2 -8 505 0 0
+8
+.TXT 0 20 509 0 0
+Cg a52.000000,52.000000,17
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 Symbolic keywords}}
+.TXT 0 31 510 0 0
+Cg a21.000000,21.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil MathSoftText;}{\f1\fcharset0\fnil Arial;}}
+\plain\cf1\fs24 \pard {\cf2\f1\fs20 keyword.pal}}

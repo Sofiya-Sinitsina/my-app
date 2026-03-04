@@ -1,0 +1,275 @@
+.MCAD 304020000 1 74 405 405
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,19
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Filename: PROGR.PAL}}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,20
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Palette: Programming}}
+.TXT 6 0 19 0 0
+Cg a73.000000,73.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Position}}
+.TXT 0 9 3 0 0
+Cg a70.000000,70.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Bitmap}}
+.TXT 0 11 5 0 0
+Cg a55.000000,55.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Description}}
+.TXT 0 17 6 0 0
+Cg a37.000000,37.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Keycode}}
+.TXT 0 15 7 0 0
+Cg a21.000000,21.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Display}}
+.EQN 5 -44 405 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K'}"<!q4(!!.b!1!#"3+u!Q4+!!.b"#!""3#e!A4(!!)8!1!$"3)1"34)!$.[5Y.b!1!&"3#e!14(!!)8!1!#"3#e!Q4(!!.b!1!'
+"3#e!A4(!!)8!1!#"3#e!Q4(!!1H!A!R!(9W"3#e!Q4(!!&R!1!$"3#e!A4(!!)8!1!&"3#e"#4(!!&R!1!$"3#e!A4(!!<>!A!N!(9W"3.[!A4(!!)8!1!#"3#e!Q4(!!.b!1!'"3#e!A4(!!)8!1!#"3.["#4)!$.[5Y1H!1!$"3#e!A4(!!)8!1!#"3#e!Q4(!!.b!1!'"3#e!A4(!!)8!1!#"3#e!Q4(!!1H!A!V!(9X"3#e!14(!!)8
+!1!#"3&K!A4(!!&R!A!&"3#e"#4(!!&R!A!#"3#e!A4(!!)8!1!'"3&K)A"<"34(!!#l!1!%"3&K!14(!!)8!A!""3#e!q4(!!1H!1!#"3#e!14)!!+|!Q!("3&K%9"<"34(!!#l!1!("3#e"#4(!!.b!1!<"3&K%9"<"C4(!!6r!1!'"3#e!q4(!!1H!1!5"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K
+
+.ATT
+.STATUS Add Program Line  ]
+.PASTEKEY -288
+.ATT_END
+.EQN 2 -8 20 0 0
+1
+.TXT 0 36 326 0 0
+Cg a53.000000,53.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 program}}
+.EQN 0 17 327 0 0
+-288
+.EQN 11 -45 321 0 0
+{   20    58 0 0}{61}
+19778 760 0 0 120
+40 58 20 1 4 0 640 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!9Q5ZEq!3&L#u$'"S"<&#6l!!%q!9+z!(9n8/)1"3"<&#6m!!$K"3"<&#6m!!%B"3"<&#6m!!$'"s"<#-6l!""K!A!"+uIq5Y@G!9!""D"K!1!"!1%1"s"<"{6l!"%1!A!"!ADG5Y=a!9!""D%1!A!"!a9Q5Y=a"C!,8/)1
+#5"<"k6l6k#m#}6m!!$)"s"<"{6l!"%1!A!"!aDG5Y@G!9!""D"K!A!"9Q>{5YC-!1!18/&K!1&R!(9n8/&K!1+|!(9n8/&K!19X!(9n8/&K!3&P!(9n8/)1!q"<&#6n!$!Q
+
+.ATT
+.STATUS Local Assignment  Shift+[
+.PASTEKEY -289
+.ATT_END
+.EQN 2 -8 21 0 0
+2
+.TXT 0 36 328 0 0
+Cg a53.000000,53.000000,12
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 local assign}}
+.EQN 0 17 329 0 0
+-289
+.EQN 12 -45 404 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!DG5Z9X!1!#"3#e%y4)!!DG5Z9X!1!#"3#e%y4)!!DG5Z9X!1!#"3#e%y4)!!DG5Z9X!1!#"3#e%y4)!!DG5Z9X!1!#
+"3#e%y4)!!DG5Z9X!1!#"3#e%y4)!!DG5Z9X!1!""3)1%i4)!!9Q5ZAh!1!>"3&K#5"<%94(!!)8!A!<"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!Q
+
+.ATT
+.STATUS If Statement  Shift+]
+.PASTEKEY -290
+.ATT_END
+.EQN 2 -8 22 0 0
+3
+.TXT 0 36 330 0 0
+Cg a53.000000,53.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 progr. if}}
+.EQN 0 17 331 0 0
+-290
+.EQN 12 -45 400 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!##e5Z!(!1!$"3#e!Q4(!!)8!1!#"3#e!A4(!!)8!Q!2"3&K'="<#e4(!!)8!1!$"3#e!Q4(!!&R!1!#"3#e!A4(!!)8
+!1!1"3&K'}"<#U4(!!#l!1!""3#e!14(!!&R!1!$"3#e!A4(!!&R!1!#"3#e$G4)!#9Q5YIx!1!""3#e!14(!!#l!1!#"3#e!Q4(!!&R!1!#"3#e!A4,!"!(!A!N!(9`"3#e!14(!!#l!1!""3#e!A4(!!)8!1!#"3#e!A4(!!&R!1!$"3#e#e4)!#9Q5YG4!1!$"3#e!Q4(!!#l!A!#"3#e!A4(!!&R!1!#"3#e!Q4(!"!(!A!F!(9_"3#e
+!Q4(!!)8!1!""3#e!14)!!)8!1!#"3#e!Q4*!"#l!A!.!(9i"3#e"S4(!"4.!A!2!(9i"3#e"#4(!!&R!1!8"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!Q
+
+.ATT
+.STATUS While Loop
+.PASTEKEY -291
+.ATT_END
+.EQN 1 45 332 0 0
+-291
+.EQN 1 -53 23 0 0
+4
+.TXT 0 37 333 0 0
+Cg a54.000000,54.000000,5
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 while}}
+.EQN 10 -29 401 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!2!(9g"3#e!Q4*!!)8!1!:"3&K$W"<$g4(!!&R!1!$"3#e!A4(!"9X!A!6!(9g"3#e!A4(!!)8!1!#"3#e
+%94)!".[5Z1H!1!#"3#e!Q4(!!&R!1!:"3&K$W"<$g4(!!&R!1!$"3#e!A4(!"9X!A!6!(9g"3#e!A4(!!)8!1!#"3&K%)4)!".[5Z.b!Q!#"3)1!Q4(!!#l!1!8"3&K"S"<$g4(!#)8!A!*!(9h"3&K&[4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!Q
+
+.ATT
+.STATUS For Loop
+.PASTEKEY -297
+.ATT_END
+.EQN 2 -8 212 0 0
+5
+.TXT 0 37 334 0 0
+Cg a54.000000,54.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 foreach}}
+.EQN 0 16 335 0 0
+-297
+.EQN 10 -45 402 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!#.[5YG4!1!""3&K!Q4(!!+|!Q!%"3&K!14(!!&R!1!$"3#e#E4)!#9Q5YG4!A!#"3#e!A4(!!)8!1!$"3#e!A4(!!&R
+!A!#"3#e!A4(!!Ix!A!F!(9_"3#e!Q4(!!&R!1!$"3#e"#4(!!)8!1!#"3#e!A4(!!Ix!A!>!(9_"3#e!Q4(!!&R!1!$"3.[!Q4+!!&R!Q!1"3&K'="<#E4(!!)8!1!#"3#e!Q4(!!)8!1!'"3#e!A4(!!#l!1!1"3&K'}"<#E4)!!&R!1!#"3&K!A4(!!)8!1!#"3#e!Q4(!!&R!1!#"3#e#U4)!#.[5YG4!1!""3&K!Q4(!!#l!1!#"3)1
+!a4*!!)8!1!$"3#e#E4)!!DG5YG4!1!9"3#e$'4)!!DG5YG4!1!9"3#e$'4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K
+
+.ATT
+.STATUS Break Statement
+.PASTEKEY -294
+.ATT_END
+.EQN 2 -8 275 0 0
+6
+.TXT 0 37 336 0 0
+Cg a52.000000,52.000000,5
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 break}}
+.EQN 0 16 337 0 0
+-294
+.EQN 13 -46 403 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!$#e5Y+|!Q!$"3&K!14(!!)8!1!$"3)1!Q4(!!+|!1!$"3#e!Q4(!!)8!Q!%"3)1!a4)!$DG3e4."3!("34'"34'"34'
+"34.!!4.!!4."3!("3!("34.!!4."3!("34'"34'"34.!!4.!!4."3!("34'!$DG3e4."3!("34'"34'"34'"34.!!4.!!4."34."3!("34'"3!(!!4'"34'"34."34.!!4.!!4."34."34'!$DG3e4."3!("34'"34'"34'"34.!!4.!!!!!!!("3!("34'"3!(!!4'"34'"34.!!!!"34.!!!!!!!("34'!$DG3e4."3!("34'"34'"34'
+"34.!!4.!!4."3!("3!("34'"3!(!!4'"34'"34'"34."34.!!4."3!("34'!$DG3e4."3!("34'"34'"34'!!4.!!4.!!4."3!("3!!"3!("34'"34.!!4'"34'"34.!!4.!!4."3!("34'!$.[5Y+|!Q!#"3)1!14(!!#l!A!%"3)1!Q4(!!#l!A!$"3#e!Q4(!!#l!1!$"3)1!a4*!!+|!A!.!(9["3#e!A4(!#Ah!A!2!(9["3#e!A4(
+!"<>!1!2"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!Q
+
+.ATT
+.STATUS Otherwise Statement
+.PASTEKEY -296
+.ATT_END
+.EQN 2 -7 276 0 0
+7
+.TXT 0 37 338 0 0
+Cg a52.000000,52.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 otherwise}}
+.EQN 0 16 339 0 0
+-296
+.EQN 8 -45 398 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!##e5YDN!1!%"3)1!Q4)!!&R!a!#"3#e!Q4(!!)8!1!0"3&K'}"<#54(!!)8!1!$"3#e!A4(!!&R!1!$"3#e!A4(!!)8
+!1!$"3#e#U4)!#.[5YDN!1!$"3#e"#4(!!&R!1!$"3#e!A4(!!)8!1!$"3#e#U4)!#.[5YDN!1!$"3.[!A4(!!&R!1!$"3#e!A4(!!)8!1!$"3#e#U4)!#9Q5YDN!1!$"3#e!Q4(!!&R!1!#"3#e!Q4(!!&R!1!$"3#e!Q4(!!Ix!A!J!(9^"3&K!A4(!!)8!1!#"3#e!A4(!!)8!1!#"3&K!A4)!!&R!1!0"3&K(_"<#54(!!#l!1!#"3)1
+!A4*!!#l!1!$"3#e!A4(!!#l!1!""3#e!14)!"!(!A!*!(9i"3#e&[4)!!9Q5Z6r!1!B"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!Q
+
+.ATT
+.STATUS Return Statement
+.PASTEKEY -295
+.ATT_END
+.TXT 1 31 340 0 0
+Cg a50.000000,50.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;}{\fonttbl{\f0\fcharset0
+\fnil Arial;}}\plain\cf1\fs20 \pard return }
+.EQN 0 17 341 0 0
+-295
+.EQN 1 -56 370 0 0
+8
+.EQN 3 8 399 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!#.[5Y9X!Q!$"3#e!Q4(!!1H!Q!$"3#e!Q4(!!+|!Q!$"3#e"c4)!$#e5Y6r!1!$"3#e!A4(!!)8!1!&"3#e!Q4(!!&R
+!1!$"3#e!Q4(!!)8!1!#"3#e"c4)!#DG5Y6r!1!$"3#e!A4(!!)8!1!&"3#e"#4(!!)8!1!$"3#e!Q4(!!&R!1!+"3&K(_"<"C4(!!)8!1!#"3#e!Q4(!!.b!q!#"3#e!Q4(!!)8!1!$"3#e!A4(!!<>!A!R!(9Y"3#e!Q4(!!&R!1!$"3#e!q4(!!)8!1!#"3#e!Q4(!!)8!1!$"3#e!A4(!!<>!A!R!(9Y"3#e!Q4(!!&R!A!#"3#e!q4(
+!!)8!1!#"3&K!A4)!!&R!1!$"3#e!A4)!!9X!A!R!(9Z"3)1!Q4(!!#l!A!("3)1!Q4(!!#l!1!""3#e!14(!!&R!Q!$"3#e!14(!!6r!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K
+
+.ATT
+.STATUS On Error Statement
+.PASTEKEY -309
+.ATT_END
+.EQN 2 -8 371 0 0
+9
+.TXT 0 40 342 0 0
+Cg a50.000000,50.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 on error}}
+.EQN 0 16 343 0 0
+-309
+.EQN 7 -52 393 0 0
+{   20    58 0 0}{61}
+19778 2280 0 0 1080
+40 58 20 1 8 0 1200 0 0 256 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa#%FW!!I}>!!%"C6k!a+u!!LO!!!)!a!!#d!%!!!%"C!)#dLG"CLG!!LVK5!0K56k"C!0Iq+}#d!)!!-y"F!$Iq7m!R!)9Q&k"P!")19Q!#!*)@!!"Y&[!!;8)1!*E0!!"c0O!!<n!!!+5N!!"m;U!!=SDG!*36!!"G?]!!4B4'!&FE!!!jAA!!)m#e!"FO!!!(Bs!!!-?.!!#3'}!!
+D[&K!.,s!!#=59!!FD&K!.H}!!#GCU!!GK.[!-;}!!"tI!!!:qIq!(F}!!"%Jc!!-(6k!#>w!!!.LG!,"s>{$h1W!#$(&[!M(QAa*F4^!%)t,G!o.?G-04:L!',{2#"23{Iq5p=S!)0$7]"S9Z!!;N@Z!+3+=9"t?8#eA,Ca!-8wC%#8E&)1FxIO!/;~H_#YJb+u!!!L!!!!/M!!!+<7!!#:!!!T!!!!)c>{!$*(!!!T6k!!)k<7!$+J!!!T
+LG!!2C!!!'1l!!")/M!!2K!!!'3/!!")E9!!2RIq!*9Q!!"\(?!!;*.[!*:s!!"\=y!!;2.[!*<6!!#1!!!!Cg>{!-BX!!#16k!!Co<7!-Cz!!#1LG!!LI>{!0Jh!!#d6k!!LQ<7!0L,!&.[!!!v!#>{/M!v!&.[6k!v!+<7/M#:!&.[LG!v)a!!/P)\!&/0/M!v)i!!/P*}!&/0E9!v)pIq/S1A!&/c(?!v2H.[/S2c!&/c=y!v2P.[/S4&
+!&08!!!v;'>{/V:H!&086k!v;/<7/V;j!&08LG!vCe!!/YB.!&0k/M!vCm!!/YCO!&0kE9!vCtIq/\Iq!&1@(?!vLL.[/\K5!&1@=y!vLT.[/\LV!+<7!!"m!#>{=y!v!+<76k"m!+<7=y#:!+<7LG"m)a!!=|)\!+<j/M"m)i!!=|*}!+<jE9"m)pIq>!1A!+=?(?"m2H.[>!2c!+=?=y"m2P.[>!4&!+=r!!"m;'>{>$:H!+=r6k"m;/<7
+>$;j!+=rLG"mCe!!>'B.!+>G/M"mCm!!>'CO!+>GE9"mCtIq>*Iq!+>z(?"mLL.[>*K5!+>z=y"mLT.[>*LV!0Iq(?#d!&.[LG"C!0Iq=y#d!..[LJ)1!0JF(?#d)f.[LJ*S!0JF=y#d)n.[LJ+t!0Jy!!#d2E>{LM28!0Jy6k#d2M<7LM3Z!0JyLG#d;%!!LP9|!0KN/M#d;-!!LP;?!0KNE9#d;4IqLSAa!0L#(?#dCj.[LSC%!0L#=y#d
+Cr.[LSDF!0LV(?#dLL.[LVK_!0LVE9#d6jIq6[!!!+Ar7}!3"=G-J"A`!+-Y<7"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5\<>!A!&!(:-"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)!#DG5Y6r!A!%"3)1!Q4(!!)8!1!#"3&K!14(!!&R!1!$"3#e!Q4+!!)8!Q!("3&K+E"1"34."34."3!("3!("3!("34'
+"34'"34.!!4.!!4.!!4.!!4."3!("3!("34'"34'"34.!!4."34."3!!*#"<"34(!!.b!1!$"3#e!A4(!!)8!1!#"3#e!A4(!!&R!1!$"3#e!A4(!!)8!1!#"3#e"c4)!$.[5Y4.!1!&"3#e!Q4(!!&R!1!$"3#e!A4(!!&R!1!#"3#e!Q4(!!&R!1!$"3#e!A4,!!1H!A!Z!(9X"3#e!q4(!!)8!1!#"3#e!Q4(!!&R!1!#"3#e!A4(!!)8
+!1!#"3#e!Q4(!!&R!1!$"3#e"#4)!$DG3e4."34."34'"34'"34'"34.!!4.!!!("3!("3!("3!("3!!"34'"34'"34.!!4.!!4."3!("34."34'!$#e5Y6r!A!%"3)1!Q4(!!#l!A!#"3)1!14(!!&R!1!""3&K!Q4(!!)8!1!$"3)1"34)!!9Q5Z?$!1!?"3&K#5"<%Y4(!!&R!1!<"3&K!q"<*s4)!!.[5\<>!A!&!(:-"3&K!q"<*s4)
+!!.[5\<>!A!Q
+
+.ATT
+.STATUS Continue Statement
+.PASTEKEY -310
+.ATT_END
+.EQN 1 52 344 0 0
+-310
+.EQN 1 -56 372 0 0
+10
+.TXT 0 39 345 0 0
+Cg a51.000000,51.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 continue}}

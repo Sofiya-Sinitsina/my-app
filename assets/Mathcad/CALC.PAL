@@ -1,0 +1,207 @@
+.MCAD 304020000 1 74 359 0
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,18
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Filename: CALC.PAL}}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,17
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Palette: Calculus}}
+.TXT 6 9 3 0 0
+Cg a70.000000,70.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Bitmap}}
+.TXT 0 11 5 0 0
+Cg a55.000000,55.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Description}}
+.EQN 3 -11 326 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m876k"K"K"K877rIqDG3m876s"K6k87877rIqDG3m876k"K6k87877sAaDG3m8787"K"K"K876k!!4'5Y*[!9!)8/>{5Y'u"#!#8/#l!5Iv!(9\8/%)
+#5"<!i6l!!#m!i6l)1#~"s"<!i6m"C-A!1!"8/>{5Y-A!1!""C-A!AG8!(9V8/#m!i6l(/$'"S"<!y6l"C-A!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Derivative  Shift+/
+.PASTEKEY 63
+.ATT_END
+.TXT 2 10 327 0 0
+Cg a53.000000,53.000000,10
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 derivative}}
+.EQN 2 -10 328 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m87!!8/8/87877rIqDG3m87"C87!)87877rIqDG3m87!!87!)6s"K7rIqDG3m878/8/8/6s"K7rIqDG3m878/87876s"K7sAa9Q5Y5Q!1!#8/&K!Q"<#-6x!'HW6k!!!!!!!!87"*Iv
+!(9\8/%)#5"<!Y6l6k#e!y6l#e#~"s"<!Y6m6k0'!1!"8/DG5Y*[!9!"!!0'!1G.IQ>{5Y-A!9!&8/$1!3!*!(9U8/*S!Y6m2#>{5Y0'!I!$8/#i!16v!(9V8/'m!Y6l;%#e"s"<!y6l6k#m!Y6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Nth Derivative  Ctrl+Shift+/
+.PASTEKEY -275
+.ATT_END
+.TXT 2 10 329 0 0
+Cg a53.000000,53.000000,14
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 nth derivative
+}}
+.EQN 2 -10 330 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!(!(9[8/$G!1!(!(9[8/#}!:6p!(9[8/&M!q"<"k6m!!.[5Y@G!1!(!(9[8/#e!1&X!'HW87!!87!!8787!e,$!'HW8/87"C87"K87;&9^!'HW8/876s87"K87!C&X!'HW8/87"C87"K87!a,$!'HW87!!87!!
+8787879X!(9[8/$)!1!(!(9[8/$G!5+|!(9[8/%9!1#j!(9[8/&K"3"<"k6l+u#e!q"<"{6l6k.[5Y=a!A!(!(9[8/$G!1!Q
+
+.ATT
+.STATUS Infinity  Ctrl+Z
+.PASTEKEY -266
+.ATT_END
+.TXT 2 10 331 0 0
+Cg a56.000000,56.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 infinity}}
+.EQN 2 -10 332 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\IqDG3m878/8/!)87877rIqDG3m876k"C6s87877rIqDG5Y'u!Y!"!!-A!7.\IqDG3m8787"K6s87877rIqDG5Y*[!I!"!!-A!7.\Iq>{5Y*[!9!'8/$m!=!*!(9T8/%)"+6m!!4'5Y*[!9!)8/>{5Y*[!9!'
+8/#{!8I|!(9T8/%)"+6l"C%)"s"<!Y6l6k2k!2!"%9>{5Y*[!9!'8/#e!96v!(9T8/%)"+6l#E&9#5"187876s8/!)8781<W#5"187876s8/6s8785,{#5"<!Y6n6k#e!Y6l!a#m#5"187876k"C8787889Q"s"<!i6l"C%)!i6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Definite Integral  Shift+7
+.PASTEKEY 38
+.ATT_END
+.TXT 2 10 333 0 0
+Cg a53.000000,53.000000,17
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+definite integral}}
+.EQN 2 -10 352 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\IqDG3m876s"C!)6s877rIqDG3m876s"K876s877rIqDG3m876k8/!)6s877rIq4'5Y=a!7.\IqDG5Y'u!q!""C'u!7.\IqDG3m876k8787!)877sAaDG3m878/"K876s876k!!9Q5Y*[!9!""C5Q"s"<!i6l
+!!0'!21B6[>{5Y-A!1!&8/#m!9!.!(9T8/%)!16p8/#u!29^!'HW876k8787"K87!)6x!'HW87!)878/"K87#SG:!(9S8/.[!16m8/$1!3!&!(9[8/'Q"s"<!Y6n6k-A!1+v"C>{5Y*[!Y!%8/%B!1!.!'HW878/!!878787!!!&!(9[8/&K
+
+.ATT
+.STATUS Summation  Ctrl+Shift+4
+.PASTEKEY -277
+.ATT_END
+.TXT 2 10 353 0 0
+Cg a55.000000,55.000000,12
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+iterated sum}}
+.EQN 2 -10 354 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!6#f.[DG3m876s"C!)"K877d7MDG3m876s"K87"K878n"SDG3m876k8/!)"K877|!A4'5Y=a!5G.(oDG3m878/878/87877@1!DG5Y*[!16m8/#m!i6l6+DG3m878/878/87878s&+DG3m878/878/87877"9QDG
+3m878/878/87877b.[DG3m878/878/878773"#DG3m878/878/87877q4'DG3m878/878/87877&.[DG3m878/878/87876|"3DG5Y'u!q!""C'u!>4(!q4'5Y=a!;<8*S>{5Y*[!Y!%8/%A!56v!(9T8/*S!i6l,g$5#5"187876k!)878780%}"3"<"k6l']#h
+
+.ATT
+.STATUS Iterated Product  Ctrl+Shift+3
+.PASTEKEY -278
+.ATT_END
+.TXT 2 10 355 0 0
+Cg a55.000000,55.000000,16
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+iterated product}}
+.EQN 2 -10 338 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!29R.[>{5Y-A!16p8/#v!144!(9T8/%)!1!&8/&"!1.f!(9T8/'m!y6l=y$?"s"<!i6l6k0'!:6l-9>{5Y-A!9!&8/$L!3G8!(9U8/%)!y6l#u%}"s"<!i6l6k0'!34(!Q>{5Y-A!9!&8/#m!?&V!(9U8/%)!y6l
+!a$0"S"<!i6l6k0'!A!*!(9U8/%)!y6m!!9Q5Y-A!9!&8/&K"S"<!i6l6k0'!A!*!(9U8/%)!y6m!!>{5Y-A!9!&8/$'!1&V!(9U8/'m!i6l!a$G#5"<!i6l6k#e!i6l"S%1"S"<!y6l"C-A!A&R!(9[8/$K!1,G
+
+.ATT
+.STATUS Indefinite Integral  Ctrl+I
+.PASTEKEY -281
+.ATT_END
+.TXT 2 10 339 0 0
+Cg a54.000000,54.000000,15
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 indef. 
+integral}}
+.EQN 2 -10 358 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y-A!16l6k-A!7.\IqDG5Y-A!16l6k-A!7.\IqDG5Y-A!16l6k-A!7.\IqDG5Y-A!1!""C-A!7.\Iq4'5Y=a!71BAa>{5Y'u!q!""C'u!A!.!'HW87!)878/"K87876x!'HW876k8787
+"K87$nI~!(9T8/%)!16p8/#m!9!,!(9U8/#e!y6l)1#~"s"<!i6l!!0'!1!"8/DG5Y*[!9!""C0'!1G.IQDG3m878/"K876s8777&KDG3m876k8787!)877q2#DG5Y'u!q!""C'u!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Range Variable Summation  Shift+4
+.PASTEKEY 36
+.ATT_END
+.TXT 2 10 359 0 0
+Cg a54.000000,54.000000,9
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 summation}}
+.EQN 2 -10 356 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!.!(9U8/#m!9!%8/$M!7,$!(9U8/#m!9!%8/#i!59^!(9U8/#m!9!%8/$0!:&X!(9U8/#e!16o8/$M!7!(!(9[8/#i!>9^!'HW876s876s8787(*&X!'HW876s876s8787"%,$!'HW876s876s8787$L!.!'HW
+876s876s8787"F)>!'HW876s876s8787!!!.!'HW876s876s8787!!!.!'HW876s876s8787!!!.!'HW876s876s8787!!!.!'HW876s876s8787!!!.!'HW876s876s8787!!!,!(9S8/.[!16m8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Range Variable Iterated Product  Shift+3
+.PASTEKEY 35
+.ATT_END
+.TXT 2 10 357 0 0
+Cg a54.000000,54.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 product}}
+.EQN 2 -10 344 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!1!"&k4'5Y=a!1!"+u.[5Y=a!I!.!'HW878/876k"K87!#!.!'HW8787"K6s"K87!%,$!'HW6k!!!)6k"K879b9^!'HW8787"K87"K87!A&X!'HW878/876k"K87+y+|!(9[8/#f!29X!(9[8/$)!1&V!(9S8//}
+!Y6l!!$K"S"<!I6p6k-A!9#p!(9S8//}!Y6l!A$'"s"<!I6p6k*[!1!"+uDG3m876s"C!!87878?!19Q5Y'u!9!(8/&M#5"<!I6l!!%)"+6l,W$G!q"<"k6m"S4'5Y=a!3!"!!4'5Y=a!1!"!d!Q
+
+.ATT
+.STATUS Two-Sided Limit  Ctrl+L
+.PASTEKEY -282
+.ATT_END
+.TXT 2 10 345 0 0
+Cg a55.000000,55.000000,19
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+bidirectional limit}}
+.EQN 2 -10 346 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!16l+%4'5Y=a!5.\1A4'5Y=a!6#fG}DG3m876s87!!87876s/MDG3m878/87"C87877R=9DG3m!!!!"K!!87"K7bE)DG3m878/878/87"K6o?-DG3m876s87!!6k!!7q:C>{5Y87!16l8/#e!7,"!(9Y8/#m!96l
+91%="s"<!I6p6k*[!3>|B3>{5Y'u!y!$8/#e!3#p!(9S8//}!Y6l-)$i"s"<!I6p6k*[!2.\=)DG3m876s"C!!87876s!1>{5Y'u!9!(8/$9!36x!(9S8/#e!9!'8/#o!6!(!(9[8/%S!36r!(9[8/$\!>6r!(9[8/#r!3$7
+
+.ATT
+.STATUS Limit from Above  Ctrl+A
+.PASTEKEY -283
+.ATT_END
+.TXT 2 10 347 0 0
+Cg a56.000000,56.000000,18
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 right 
+handed limit}}
+.EQN 2 -10 348 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:!"JS4'5Y=a!3>|BS4'5Y=a!2Ab*SDG3m876s87!!87876s11DG3m878/87"C87877p;eDG3m!!!!"K!!87877wF;DG3m878/878/87876l!aDG3m876s87!!8/!)8$=Y4'5Y=a!6.\/m4'5Y=a!?>|J3>{5Y'u
+!y!$8/$q!1,"!(9S8//}!Y6l;%$6"s"<!I6p6k*[!3<8+u>{5Y'u!y!$8/#z!?!.!'HW87"C6k!)8787'"#n!(9S8/%)"K6l)ADG5Y'u!1!"6k2k!?+v!Q4'5Y=a!36l474'5Y=a!:>|=y4'5Y=a!3<8(r!Q
+
+.ATT
+.STATUS Limit from Below  Ctrl+B
+.PASTEKEY -284
+.ATT_END
+.TXT 2 10 349 0 0
+Cg a56.000000,56.000000,17
+{\rtf\ansi \deff0{\colortbl;\red0\green128\blue128;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 left 
+handed limit}}

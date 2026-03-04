@@ -1,0 +1,942 @@
+.MCAD 304010000 1 74 324 0
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,19
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Filename: GREEK.PAL}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,38
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Palette: Greek lowercase 
+and uppercase}
+.TXT 6 0 19 0 0
+Cg a73.000000,73.000000,8
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Position}
+.TXT 0 9 3 0 0
+Cg a70.000000,70.000000,6
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Bitmap}
+.TXT 0 11 5 0 0
+Cg a55.000000,55.000000,11
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Description}
+.TXT 0 17 6 0 0
+Cg a37.000000,37.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Keycode}
+.TXT 0 15 7 0 0
+Cg a21.000000,21.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard Display}
+.EQN 5 -43 202 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!(!(9[8/$G!1+|!(9[8/#f!2!(!(9[8/$'!1!&!(9[8/&K"3"<"k6l#u#e#5"187876k"K!)878/9a#5"18787"K6k87878511#5"18787"K8/87878511#5"18787"K8/"K878511#5"18787"K8/6s878511
+#5"187876s6s6s878511#5"187878/!)6s878511"3"<"k6l23&;"3"<"k6l2C%i!q"<"k6m!!)15YC-"3"<"k6l'-$u!q"<"k6m!!4'5Y=a!4&L%<!Q
+
+.ATT
+.STATUS Alpha
+.PASTEKEY 97 -9
+.ATT_END
+.EQN 2 -9 20 0 0
+1
+.TXT 0 20 56 0 0
+Cg a53.000000,53.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard alpha}
+.EQN 0 17 85 0 0
+97,-9
+.EQN 10 -28 203 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!@!"!!4'5Y=a!@!"!!4'5Y=a!@!"!!>{5Y*[!16q8/&+!1!,!(9T8/#m"+6lIq#e#5"18787"C!)87878>!!"s"<!Y6m"C%)!i6m!!DG3m8787"K8/87876k!!DG3m8787"K8/87876k!!DG3m8787"K8/87876k
+!!DG3m8787"K8/87876k!!9Q5Y-A!A!%8/&K#5"187878/87"K878/!!#5"187878/876s878/!!#5"1878787"K6s878/!!"s"<!y6l!!#m!Y6m!!.[5Y=a!A!(!(9[8/#g!3&R!(9[8/$K!1!(!(9[8/#u!17=
+
+.ATT
+.STATUS Beta
+.PASTEKEY 98 -9
+.ATT_END
+.EQN 3 -9 21 0 0
+2
+.TXT 0 20 58 0 0
+Cg a53.000000,53.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard beta}
+.EQN 0 17 86 0 0
+98,-9
+.EQN 12 -28 204 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y-A!16p8/$l!@!,!(9U8/#m!y6l23&;"s"<!i6l6k0'!71BAa9Q5Y-A!9!&8/&K"3"<!i6l6k5Q#5"<!i6l6k#m!i6l'-$u"s"<!i6l6k#m!i6m!!DG
+3m876s8/6s87876}%9DG3m878/6s8/87876k8/DG3m8787"K8/87878O=y4'5Y=a!3<8&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Gamma
+.PASTEKEY 103 -9
+.ATT_END
+.EQN 2 -9 22 0 0
+3
+.TXT 0 20 60 0 0
+Cg a53.000000,53.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard gamma}
+.EQN 0 17 87 0 0
+103,-9
+.EQN 15 -28 205 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y-A!1!""C-A!7.\IqDG3m8787"K6s87877sAaDG3m8787"K8/87876k!!>{5Y*[!9!#8/#m!y6x!'HW878/876s8787'3G:!'HW8787
+"K6s8787!!!.!(9U8/%)!1!%8/#w!29\!(9V8/#m!i6l!!%1#5"1878787"K"K8789"m#5"<!i6l"C%)!i6l(/$'"s"<!i6l6k#m!i6m2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Delta
+.PASTEKEY 100 -9
+.ATT_END
+.EQN 3 -9 23 0 0
+4
+.TXT 0 19 63 0 0
+Cg a54.000000,54.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard delta}
+.EQN 0 18 88 0 0
+100,-9
+.EQN 12 -28 206 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%i4'5Y=a!3<86k4'5Y=a!19R'MDG5Y-A!1!""C-A!7)2DgDG3m8787"K6s87877@*3>{5Y-A!16p8/&.!:#r!(9U8/%)!1!%8/%2!4)<!(9U8/#m!y6l4g&4
+#5"187878/87"K878<E=#5"1878787!!"K8782&H"3"<"k6l5i%>"3"<"k6l+e$D"3"<"k6l,W$:"3"<"k6l3E#h"3"<"k6l'm$x"3"<"k6l;E%S"3"<"k6l(/$5
+
+.ATT
+.STATUS Epsilon
+.PASTEKEY 101 -9
+.ATT_END
+.EQN 2 -9 65 0 0
+5
+.TXT 0 19 66 0 0
+Cg a55.000000,55.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard epsilon}
+.EQN 0 19 89 0 0
+101,-9
+.EQN 13 -28 207 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JSDG5Y*[!9!""C0'!34(%iDG5Y*[!16l6k0'!3<86k>{5Y-A!9!&8/#n!31L!(9U8/#m!y6l1q%{"s"<!Y6l6k2k!4)2*3>{5Y*[!9!'8/&.!:#p!(9T8/%)"+6l8?$:"s"<
+!Y6l6k2k!8+vH_>{5Y-A!16p8/&(!6,"!(9U8/%)!y6l)A&H#5"1878787!!"K8786=n#5"187878/6k"K8782JP"s"<!i6l"C0'!5+v)a>{5Y-A!9!&8/$s!1)8!(9[8/$/!8#l!(9[8/%D!;<>!(9[8/$1!3G]
+
+.ATT
+.STATUS Zeta
+.PASTEKEY 122 -9
+.ATT_END
+.EQN 2 -10 68 0 0
+6
+.TXT 0 19 69 0 0
+Cg a54.000000,54.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard zeta}
+.EQN 0 19 90 0 0
+122,-9
+.EQN 19 -29 208 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!)15YC-!q"<"k6m!!.[5Y=a!A!(!(9[8/#h!3)<!(9V8/#m!i6l>k#o"s"<!y6l"C-A!9+vAq9Q5Y0'!9!%8/&L#5"187876s8/878786"K#5"187876s8/87878>!!#5"187878/87"K878>!!#5"187878/87"K878>!!
+#5"187878/87"K878>!!#5"18787"C"K"K8786!!#5"187876s6k87878>!!"3"<"k6lIq#e"3"<"k6lIq#e"3"<"k6lDG#e"3"<"k6lIq#e"3"<"k6lIq#e"3"<"k6lIq#e
+
+.ATT
+.STATUS Eta
+.PASTEKEY 104 -9
+.ATT_END
+.EQN 2 -9 71 0 0
+7
+.TXT 0 18 72 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard eta}
+.EQN 0 21 92 0 0
+104,-9
+.EQN 12 -30 209 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%i4'5Y=a!3<86k>{5Y-A!1!&8/#n!31N!'HW878/8/8787871~&X!'HW878/87"K8787)d1N!'HW878/87"K8787Gf#r!'HW878/87"K87878B)>!'HW878/
+876s87874u9^!(9U8/&K!16n8/&(!6,$!'HW8787"K6s8787)PDT!'HW8787"K6s87875r.h!'HW87876s6s8787+hDR!(9V8/#e!i6l,W$:"3"<"k6l3E#h"3"<"k6l'm$x"3"<"k6l;E%S"3"<"k6l(/$5
+
+.ATT
+.STATUS Theta
+.PASTEKEY 113 -9
+.ATT_END
+.EQN 3 -9 74 0 0
+8
+.TXT 0 17 75 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard theta}
+.EQN 0 22 93 0 0
+113,-9
+.EQN 11 -30 210 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!@!"!!4'5Y=a!@!"!!4'5Y=a!@!"!!4'5Y=a!?!"!!4'5Y=a!@!"!!4'5Y=a!@!"!!DG5Y-A!9!""C-A!8!"!!DG5Y-A!16l6k-A!@!"!!>{5Y-A!16p8/&;!1!,!(9U8/#e!y6lDW#e"s"<!i6l6k0'!5G.8_>{
+5Y-A!9!&8/$1!2Al!(9U8/#e!y6l$w%)"3"<"k6lA1%s!q"<"{6lH/4'5Y=a!2.\L74'5Y=a!4)2*34'5Y=a!4)2*3.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Iota
+.PASTEKEY 105 -9
+.ATT_END
+.EQN 2 -9 160 0 0
+9
+.TXT 0 18 95 0 0
+Cg a55.000000,55.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard iota}
+.EQN 0 21 96 0 0
+105,-9
+.EQN 13 -30 211 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m8787"K8/87877sAaDG3m8787"K6s87876k!!4'5Y-A!A6q8/>{5Y-A!1!&8/$+!7G6!(9U8/&S!i6m!!DG5Y-A!16l
+6k-A!2&L%9DG3m87878/8/87876k8/4'5Y=a!;!"=y4'5Y=a!3<8&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Kappa
+.PASTEKEY 107 -9
+.ATT_END
+.EQN 2 -9 161 0 0
+10
+.TXT 0 17 98 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard kappa}
+.EQN 0 22 99 0 0
+107,-9
+.EQN 7 -30 212 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%i4'5Y=a!3<86kDG3m878/8787"K876t'MDG3m878/878/87877pDgDG3m8787"K8/87877@*3DG5Y-A!16l6k-A!?)29aDG5Y-A!16l6k-A!99R)aDG5Y-A
+!9!""C-A!8+vH_DG5Y-A!9!""C-A!>DH/=>{5Y-A!9!&8/$8!@DR!(9U8/%)!y6l5i%>"s"<!i6l"C0'!4Ir+E>{5Y*[!1!'8/$K!4)8!(9[8/$s!1)8!(9[8/$/!8#l!(9[8/%D!;<>!(9[8/$1!3G]
+
+.ATT
+.STATUS Lambda
+.PASTEKEY 108 -9
+.ATT_END
+.EQN 2 -9 162 0 0
+11
+.TXT 0 17 101 0 0
+Cg a55.000000,55.000000,6
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard lambda}
+.EQN 0 22 102 0 0
+108,-9
+.EQN 13 -30 213 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&m!q"<"k6m#u.[5Y=a!A!*!(9T8/#m"+6m!!9Q5Y*[!16q8/&K"S"<!Y6l6k2k!C&X!'HW878/!)6s8787#v#r!'HW878/8/"C8787!!!.!'HW878/87"K8787;-6x!'HW878/87"K8787.C?*!(9U
+8/#m!9!%8/$1!2An!'HW8787"K6s8787%!!.!'HW8787"K6s8787A=<<!(9\8/&1"3"<"k6l$W&I"3"<"k6l)a$="3"<"k6l)a$="3"<"k6l,W#e"3"<"k6l(/$G
+
+.ATT
+.STATUS Mu
+.PASTEKEY 109 -9
+.ATT_END
+.EQN 2 -9 163 0 0
+12
+.TXT 0 17 104 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard mu}
+.EQN 0 22 105 0 0
+109,-9
+.EQN 8 -30 215 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y*[!9!'8/$m!=!,!(9T8/%)!1!&8/&K"3"<!i6m"C2k#5"<!i6l"C%)!i6l'-$S"s"<!i6l"C%)!i6m!!DG3m87878/
+8/87876}%9DG3m8787!!8/87876k8/4'5Y=a!;!"!!4'5Y=a!3<8&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Nu
+.PASTEKEY 110 -9
+.ATT_END
+.EQN 2 -9 164 0 0
+13
+.TXT 0 17 107 0 0
+Cg a55.000000,55.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard nu}
+.EQN 0 22 108 0 0
+110,-9
+.EQN 9 -30 216 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!<!"!a4'5Y=a!7!"!!4'5Y=a!>!"!!4'5Y=a!<!"!!>{5Y-A!1!&8/$g!1!,!(9V8/#m!i6lDG#e#5"<!Y6l6k#e!y6l>{#e"s"<!Y6l"C2k!7!"!!>{5Y*[!16q8/$W!1!,!(9T8/%)"+6l>{#e"s"<!i6m!!-A
+!7!"!!DG3m8787"K!)87879!!!>{5Y*[!9!'8/%~!6.d!(9U8/#m!y6m/M9Q5Y-A!A!%8/&K#5"187876s6k87878/!!"S"<!Y6l6k2k!A!(!(9[8/#f!1!&!(9[8/&K"3"<"k6l!A#u
+
+.ATT
+.STATUS Xi
+.PASTEKEY 120 -9
+.ATT_END
+.EQN 2 -9 165 0 0
+14
+.TXT 0 17 110 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard xi}
+.EQN 0 22 111 0 0
+120,-9
+.EQN 11 -30 217 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!$!(9]8/.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!,!(9U8/#e!16o8/&K#5"187876s8/87878/!!#5"187876s87"K878/!!#5"187876s87"K878/!!#5"187876s87"K878/!!#5"187878/87"K87
+8/!!"s"<!i6l6k#e!i6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!(!(9[8/#g!3&R!(9[8/$K!1!(!(9[8/#u!17=
+
+.ATT
+.STATUS Omicron
+.PASTEKEY 111 -9
+.ATT_END
+.EQN 3 -9 166 0 0
+15
+.TXT 0 18 113 0 0
+Cg a55.000000,55.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard omicron}
+.EQN 0 21 114 0 0
+111,-9
+.EQN 13 -30 218 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%i4'5Y=a!3<86k4'5Y=a!19R'M4'5Y=a!7)2DgDG3m8787"K6s87877@*3DG3m8787"K"C8787949a>{5Y-A!A6o8/%2!4)<!(9U8/&S!i6l4g&4"s"<!i6m
+"C-A!>DH/=DG5Y*[!16m6k-A!4#fL'DG5Y*[!9!$!!*[!8<8:C4'5Y=a!4Ir+E4'5Y=a!5+v)a4'5Y=a!7Ab!Q4'5Y=a!36l474'5Y=a!:>|=y4'5Y=a!3<8(r!Q
+
+.ATT
+.STATUS Pi
+.PASTEKEY 112 -9
+.ATT_END
+.EQN 2 -9 167 0 0
+16
+.TXT 0 17 116 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard pi}
+.EQN 0 22 117 0 0
+112,-9
+.EQN 13 -29 219 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K"s"<!Y6l"C2k!1&L&k>{5Y*[!16q8/$K!1!.!'HW876s!!878787#e6x!'HW878/87"K8787!C&X!'HW878/876s8787,[,$!'HW878/876s8787:t!.!'HW
+8787"K6s8787!A!.!'HW8787"K6s8787!a,$!(9U8/%)!1!%8/#u!2#l!(9[8/$)!1&R!(9[8/#e!5+|!(9[8/%9!9!(!(9[8/#e!3&P!(9[8/'-"3"<"k6l"S%)
+
+.ATT
+.STATUS Rho
+.PASTEKEY 114 -9
+.ATT_END
+.EQN 2 -10 118 0 0
+17
+.TXT 0 18 119 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard rho}
+.EQN 0 21 120 0 0
+114,-9
+.EQN 13 -30 220 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K"3"<"k6l!A$)#5"<!i6l!!#m!i6l,W#e#5"187876s8/878780!)#5"187876s87"K878/&m#5"187876s87"K8783,[#5"187876s87"K87886{#5"18787
+8/87"K878/&K"s"<!i6l6k&K!Y6m!a4'5Y=a!2!"#u4'5Y=a!3&L!A4'5Y=a!1!",W4'5Y=a!:!"6k4'5Y=a!1!"&k.[5Y=a!E!(!(9[8/#n!9!Q
+
+.ATT
+.STATUS Sigma
+.PASTEKEY 115 -9
+.ATT_END
+.EQN 2 -9 121 0 0
+18
+.TXT 0 17 122 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard sigma}
+.EQN 0 22 123 0 0
+115,-9
+.EQN 8 -30 221 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&\"3"<"k6l)1$B"S"<!i6l"C0'!A!*!(9U8/#m!y6m!!9Q5Y-A!9!&8/&K"S"<!i6l6k0'!A!*!(9U8/%)!y6m!!DG3m8787"K"K87876k!!>{5Y-A!A!""C*[
+!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m,74'5Y=a!2!"!14'5Y=a!3#f=l!Q
+
+.ATT
+.STATUS Tau
+.PASTEKEY 116 -9
+.ATT_END
+.EQN 1 -9 124 0 0
+19
+.TXT 0 18 125 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard tau}
+.EQN 0 21 126 0 0
+116,-9
+.EQN 13 -30 222 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y-A!1!&8/$m!=!.!'HW878/8/878787!!!,!(9T8/%)!96l6k2k#5"187876s8/8787812/#5"187876s8/87878/!!
+#5"<!i6l"C%)!i6l$'#~#5"187876k8/87878/"K"3"<"k6l=y#e"3"<"k6l(/$'!q"<"k6m2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Upsilon
+.PASTEKEY 117 -9
+.ATT_END
+.EQN 2 -9 168 0 0
+20
+.TXT 0 17 128 0 0
+Cg a56.000000,56.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard upsilon}
+.EQN 0 22 129 0 0
+117,-9
+.EQN 7 -30 223 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y-A!16p8/$l!@!,!(9U8/#m!y6l23&;"s"<!i6l"C0'!7.\Iq>{5Y-A!16p8/$l!@!.!(9U8/#e!16o8/$m!=!*!(9T8/*S!i6m!!DG3m878/8/8/8787878/DG3m878/8/8/878771
+.;DG3m878/8/8/87876k!!>{5Y*[!Y!%8/#w!29^!(9U8/#e!16o8/#e!96v!(9V8/#m!i6l<7#o"s"<!y6l"C-A!3<8&K9Q5Y0'!16o8/'Q"s"<!y6l"C-A!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Phi
+.PASTEKEY 102 -9
+.ATT_END
+.EQN 2 -9 169 0 0
+21
+.TXT 0 18 131 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard phi}
+.EQN 0 21 132 0 0
+102,-9
+.EQN 19 -29 224 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!PIv!(9[8/)0!Q"<#-6n!(9]8/)15YC-#5"1878/878/"K878787"s"<!Y6l"C%1!A6p8/4'5Y*[!I!(8/4'5Y*[!I!(8/>{5Y-A!1!&8/%B!96v!(9U8/#e!y6l.;%4"s"<!i6m"C-A!3<8%iDG5Y-A!16l6k-A
+!24(6kDG3m876s6s6s87878lCEDG5Y*[!1!#8/#m!i6lH/4'5Y=a!2.\L74'5Y=a!4)2*34'5Y=a!4)2*34'5Y=a!5+v!!4'5Y=a!3<8+x!Q
+
+.ATT
+.STATUS Chi
+.PASTEKEY 99 -9
+.ATT_END
+.EQN 2 -10 170 0 0
+22
+.TXT 0 17 134 0 0
+Cg a56.000000,56.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard chi}
+.EQN 0 22 135 0 0
+99,-9
+.EQN 12 -29 225 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!PIv!(9[8/)0!Q"<#-6n!(9]8/4'5Y-A!16r8/4'5Y-A!16r8/4'5Y-A!16r8/9Q5Y-A!1!""C2k"3"<!Y6n6k2k"s"<!Y6n6k-A!:9R8/DG3m8787"C8/87877[8_DG3m8787"K"C878777%iDG3m8787"K"K"K
+877$6kDG3m878/87"K"K878lCE.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Psi
+.PASTEKEY 121 -9
+.ATT_END
+.EQN 2 -10 172 0 0
+23
+.TXT 0 18 137 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard psi}
+.EQN 0 21 138 0 0
+121,-9
+.EQN 13 -29 226 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m878/!)!)87877sAaDG3m876s8/8/87876k!!DG3m876s8/87"K87878/DG3m876s8/87"K87713eDG3m876s8/87"K
+876k!!DG3m878/8787"K876}%9DG3m8787"K8/87876k8/4'5Y=a!;!"=y4'5Y=a!3<8&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Omega
+.PASTEKEY 119 -9
+.ATT_END
+.EQN 2 -10 139 0 0
+24
+.TXT 0 17 140 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard omega}
+.EQN 0 22 141 0 0
+119,-9
+.EQN 9 -29 276 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&m!q"<"k6m#u.[5Y=a!A!&!(9[8/&K#5"1876k"K87!!878/!!#5"1878/87876s8781&m#5"1878/87876s8780#v"s"<!Y6n!!#m!Y6m!!>{5Y*[!16m8/#m!y6x!'HW878/87"K8787!!!.!'HW
+878/87"K8787!!!*!(9U8/&S!i6m#u9Q5Y-A!A6o8/(}"s"<!i6l6k0'!1#f!!9Q5Y-A!9!&8/&K!q"<"k6m!!4'5Y=a!1#f!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Alpha
+.PASTEKEY 65 -9
+.ATT_END
+.EQN 2 -10 251 0 0
+25
+.TXT 0 17 227 0 0
+Cg a53.000000,53.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard alpha}
+.EQN 0 22 301 0 0
+65,-9
+.EQN 10 -29 277 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7Ab!Q4'5Y=a!36l474'5Y=a!:>|=y4'5Y=a!3<8(o4'5Y=a!8Ir@_DG5Y*[!Q!""C*[!9+v<WDG3m8787"K87"K876k!!DG3m8787"K876s876k!!DG3m8787"K876s876k!!DG3m8787"K87"K876k!!DG3m87
+87!!!!87876k!!DG3m8787"K8/87876k!!DG3m8787"K87"K876k!!DG3m8787"K87"K876k!!DG3m8787"K8/87876k!!9Q5Y*[!Q!%8/&K!q"<"k6m!!.[5Y=a!E&R!(9[8/#u!1#l!(9[8/$(!;:#
+
+.ATT
+.STATUS Capital Beta
+.PASTEKEY 66 -9
+.ATT_END
+.EQN 3 -10 252 0 0
+26
+.TXT 0 17 228 0 0
+Cg a53.000000,53.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard beta}
+.EQN 0 22 302 0 0
+66,-9
+.EQN 12 -29 278 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y*[!1!""C0'!7.\Iq>{5Y*[!9!'8/$m!=!*!(9T8/%)"+6m!!4'5Y*[!9!)8/>{5Y*[!9!'8/$+!7G6!(9T8/%)"+6m!!>{5Y*[!9!'
+8/#w!29\!(9T8/%)"+6l!!%1"s"<!Y6l6k2k!;!"=yDG3m8787"K87"K8777&K9Q5Y*[!a!$8/'Q"3"<"k6l!a#m"3"<"k6l;%#e!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Gamma
+.PASTEKEY 71 -9
+.ATT_END
+.EQN 2 -10 253 0 0
+27
+.TXT 0 17 229 0 0
+Cg a53.000000,53.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard gamma}
+.EQN 0 22 303 0 0
+71,-9
+.EQN 15 -29 279 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y'u!9!&!!'u!7.\IqDG3m878/87876s877sAaDG3m878/87876s876k!!>{5Y*[!9!#8/%)!y6x!'HW878/878/8787'3G:!'HW8787
+"K6s8787!!!.!'HW8787"K6s8787$(9\!(9U8/'m!i6l!!%1"s"<!i6m6k-A!;!"=y>{5Y0'!16o8/$1!3!*!(9V8/#m!i6m2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Delta
+.PASTEKEY 68 -9
+.ATT_END
+.EQN 3 -10 254 0 0
+28
+.TXT 0 16 230 0 0
+Cg a54.000000,54.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard delta}
+.EQN 0 23 304 0 0
+68,-9
+.EQN 14 -31 280 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%i4'5Y=a!3<86k>{5Y*[!a!$8/#n!31N!'HW878/878/87871~&V!(9T8/%)"+6l)a$="s"<!Y6l6k2k!?)29aDG3m8787"K6s878788)aDG5Y*[!9!#!!-A
+!8+vH_DG3m8787"K6s87879./=>{5Y*[!9!'8/$8!@DR!(9T8/%)"+6l5i%>#5"187876s876s8782JP"s"<!Y6o!!*[!5+v)a4'5Y=a!7Ab!Q4'5Y=a!36l474'5Y=a!:>|=y4'5Y=a!3<8(r!Q
+
+.ATT
+.STATUS Capital Epsilon
+.PASTEKEY 69 -9
+.ATT_END
+.EQN 2 -8 255 0 0
+29
+.TXT 0 16 231 0 0
+Cg a55.000000,55.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard epsilon}
+.EQN 0 23 305 0 0
+69,-9
+.EQN 13 -31 281 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!31B!14'5Y=a!9!""C.[5Y=a!F.`!(9[8/&K!q"<"k6m#u>{5Y'u!9!%!!*[!E,$!'HW876s878/8787!!!*!(9T8/%)"+6m/M9Q5Y*[!9!'8/&\"S"<!i6l"C0'!PIz!(9U8/%)!y6m!!9Q5Y0'!16o8/'d"S"<
+!y6l6k-A!A!,!(9V8/%)!i6l>k$M#5"18787"K87"K8781$*"s"<!Y6o!!*[!2&L,'.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Zeta
+.PASTEKEY 90 -9
+.ATT_END
+.TXT 2 8 232 0 0
+Cg a54.000000,54.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard zeta}
+.EQN 0 23 306 0 0
+90,-9
+.EQN 1 -39 256 0 0
+30
+.EQN 18 8 282 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m876k"K8/!)877rIqDG3m878/8787"K877sAaDG3m878/8787"K876k!!>{5Y*[!16m8/%)!y6x!'HW876s878/8787'1G6!(9T8/+u
+!Y6m!!DG3m878/8787"K876}%9DG3m878/8787"K876k8/DG3m878/8787"K878O"cDG3m878/8787"K8777&KDG3m876k"K8/!)877q2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Eta
+.PASTEKEY 72 -9
+.ATT_END
+.EQN 0 33 307 0 0
+72,-9
+.TXT 2 -26 233 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard eta}
+.EQN 1 -15 257 0 0
+31
+.EQN 12 8 283 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!16l!!.[5Y=a!A!&!(9[8/&K!q"<"k6m&k.[5Y=a!B#n!(9U8/&K!i6m!!DG3m878/"K8/"K876k!!DG3m878/8787"K876k!!DG3m876s87876s877/&kDG3m876s"K8/6s876|#uDG3m876s!!!!6s876k!!>{
+5Y'u!I!#8/&S!i6x!'HW87"K8787"K87!!!.!'HW876s878/8787!!!.!'HW876k876k8787!!!*!(9U8/&K!i6m!!.[5Y=a!A!&!(9[8/'B!q"<"k6m!!)15YC-
+
+.ATT
+.STATUS Capital Theta
+.PASTEKEY 81 -9
+.ATT_END
+.EQN 0 33 308 0 0
+81,-9
+.EQN 2 -41 258 0 0
+32
+.TXT 0 14 234 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard theta}
+.EQN 11 -6 285 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A+|!(9[8/#u!2#l!(9[8/$)!1&R!(9[8/#e!5+|!(9[8/%9!9!.!(9U8/#e!16o8/#e!3&T!(9U8/%)!y6m+u>{5Y-A!9!&8/#n!9!,!(9U8/%)!y6l&K#e"S"<!i6l6k0'!E,"!(9U8/%)!y6l8?%9"S"<!i6l
+6k0'!A!,!(9U8/%)!y6l!a$K"s"<!i6l6k0'!2#f"S>{5Y-A!9!&8/$'!1!.!(9U8/#e!16o8/$G!1!(!(9[8/%A!16p!(9[8/&k!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Iota
+.PASTEKEY 73 -9
+.ATT_END
+.EQN 0 33 309 0 0
+73,-9
+.TXT 2 -26 235 0 0
+Cg a55.000000,55.000000,4
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard iota}
+.EQN 1 -15 259 0 0
+33
+.EQN 12 7 286 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m876k"K8/!)877rIqDG3m878/8787"K877sAaDG3m878/878/87876k!!>{5Y*[!16l8/%)"+6x!'HW876k8/878787'3G8!(9T8/#m
+!1!&8/&K#5"<!Y6l"C%)!y6l$'#~#5"18787"K6s87878/"K#5"18787"K8/878789"m#5"18787"K87"K8781<W#5"1878/!)8/!)8785,{"3"<"k6l!a#m"3"<"k6l;%#e!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Kappa
+.PASTEKEY 75 -9
+.ATT_END
+.EQN 0 34 310 0 0
+75,-9
+.EQN 2 -41 260 0 0
+34
+.TXT 0 14 236 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard kappa}
+.EQN 7 -7 287 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:!"6k4'5Y=a!1!"&k.[5Y=a!E!(!(9[8/#n!9!(!(9[8/$'!1!.!'HW8/!)876k"K87,[,$!'HW87"K878/87878H!.!'HW87"K878/8787!!!.!'HW876s876s8787!e,$!'HW876s876s8787#u9^!'HW878/
+87"K8787&K!.!'HW878/87"K8787+u!,!(9U8/&S!i6l:s#m"S"<!i6m"C-A!C!(!(9U8/%)";6t!(9U8/%)!y6m!!.[5Y=a!A!&!(9[8/&\!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Lambda
+.PASTEKEY 76 -9
+.ATT_END
+.EQN 1 34 311 0 0
+76,-9
+.TXT 1 -27 237 0 0
+Cg a55.000000,55.000000,6
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard lambda}
+.EQN 1 -14 262 0 0
+35
+.EQN 12 7 288 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m87!!87"K6k"K7rIqDG3m876s87"K8/877sAaDG3m876s8/6s8/876k!!DG3m876s8/6s8/87878/DG3m876s6s8/8/8771-yDG3m87
+6s6s8/8/876k!!DG3m876s"K87"C876}%9DG3m876s"K87"C876k8/DG3m876k87876k878O!!DG3m876k87876k8777&KDG3m87!)87878/"K7q2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Mu
+.PASTEKEY 77 -9
+.ATT_END
+.EQN 1 34 312 0 0
+77,-9
+.EQN 1 -41 263 0 0
+36
+.TXT 0 14 238 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard mu}
+.EQN 8 -7 289 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m876k"K87"K877rIqDG3m878/878/"K877rIqDG3m878/876s"K877sAaDG3m878/876s"K876k!!DG3m878/87"K"K87878/DG3m878/8/87"K8771
+-yDG3m878/8/87"K876k!!DG3m878/6s87"K876}%9DG3m878/"K87"K876k8/DG3m878/"K87"K878O!!DG3m876k878/!)8777&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Capital Nu
+.PASTEKEY 78 -9
+.ATT_END
+.EQN 1 34 313 0 0
+78,-9
+.EQN 1 -41 264 0 0
+37
+.TXT 0 14 239 0 0
+Cg a55.000000,55.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard nu}
+.EQN 9 -7 290 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y*[!a!$8/$l!@!.!'HW876s878/87872B!(!(9[8/$m!=!&!(9[8/&K"s"<!Y6l6k'u!16p8/DG3m8787!!!!878771-yDG3m8787"K8/87876k!!4'
+5Y=a!2&L%94'5Y=a!1!"8/DG3m878/8787"K878O!!>{5Y*[!a!$8/$1!3!&!(9[8/'Q"3"<"k6l!a#m"3"<"k6l;%#e!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Xi
+.PASTEKEY 88 -9
+.ATT_END
+.EQN 1 34 314 0 0
+88,-9
+.TXT 1 -27 240 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard xi}
+.EQN 1 -14 265 0 0
+38
+.EQN 11 7 291 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq>{5Y-A!A!%8/$l!@!.!'HW876k876k87872B!.!'HW876s878/87872O!.!'HW87"K8787"K87!!!,!(9S8/%)!i6l"C-A#5"1878/87878/87812/#5"1
+878/87878/878/!!#5"1878/87878/8780&d#5"18787"K876s878/"K#5"18787!)87!)8789<7"s"<!i6m!!-A!3<8&K.[5Y=a!G+|!(9[8/#i!16r!(9[8/%B!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Capital Omicron
+.PASTEKEY 79 -9
+.ATT_END
+.EQN 1 34 315 0 0
+79,-9
+.TXT 1 -26 241 0 0
+Cg a55.000000,55.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard omicron}
+.EQN 1 -15 266 0 0
+39
+.EQN 12 7 292 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m876k"K8/!)877rIqDG3m878/8787"K877rIqDG3m878/8787"K877sAaDG3m878/8787"K876k!!>{5Y*[!16m8/%)!y6x!'HW876s878/8787'1An
+!'HW876s878/8787!!!.!'HW876s878/8787$(9^!'HW876s878/8787!)6x!'HW876s878/8787<7!.!'HW87!!!!!!"K87(1!&!(9[8/'Q"3"<"k6l!a#m"3"<"k6l;%#e!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Pi
+.PASTEKEY 80 -9
+.ATT_END
+.EQN 1 34 316 0 0
+80,-9
+.EQN 1 -41 267 0 0
+40
+.TXT 0 14 242 0 0
+Cg a56.000000,56.000000,2
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard pi}
+.EQN 13 -7 293 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!,!(9T8/#e!16p8/&K"s"<!Y6l6k2k!1&L&k>{5Y*[!9!'8/$K!1!,!(9T8/%)"+6l#e#m"s"<!Y6l6k2k!1&L&k>{5Y*[!9!#!!-A!E,$!'HW878/876s8787:t!.!'HW
+878/878/8787!A!.!'HW878/878/8787!a,$!'HW878/876s8787#f#p!(9T8/)1!i6l&k#g"3"<"k6l!!$K"3"<"k6l9Q%)"3"<"k6l!!$)!q"<"k6m+u4'5Y=a!19R6n!Q
+
+.ATT
+.STATUS Capital Rho
+.PASTEKEY 82 -9
+.ATT_END
+.EQN 1 34 317 0 0
+82,-9
+.TXT 1 -26 243 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard rho}
+.EQN 1 -15 268 0 0
+41
+.EQN 12 7 294 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y'u!9!%!!*[!7.\IqDG3m878/8787"K877rIq>{5Y*[!9!'8/$m!=!*!(9U8/#m!y6m!!4'5Y-A!9!(8/>{5Y0'!16o8/$+!7G6!(9U8/%)!y6m!!>{
+5Y-A!16p8/#w!29\!(9T8/%)"+6l!!%1#5"18787"K876s8789"m#5"<!I6l6k+u!Y6l(/$'!q"<"k6m2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Sigma
+.PASTEKEY 83 -9
+.ATT_END
+.EQN 1 34 318 0 0
+83,-9
+.EQN 1 -41 269 0 0
+42
+.TXT 0 14 244 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard sigma}
+.EQN 7 -7 295 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!$!(9]8/.[5Y=a!A!&!(9[8/&K"s"<!i6l!!#m!i6m!!9Q5Y-A!9!&8/&K"S"<!i6l6k0'!A!*!(9U8/%)!y6m/M9Q5Y-A!9!&8/&K"3"<!i6l6k5Q"S"<!i6l6k0'!A!,!(9U8/%)!y6l!Q#e"s"<!i6l6k0'
+!=G.8/DG3m876s8/87"K876k!!>{5Y'u!9!%!!*[!A!&!(9[8/&L"3"<"k6l&{%Z"3"<"k6l-)%t!Q"<#-6p!(9[8/&K
+
+.ATT
+.STATUS Capital Tau
+.PASTEKEY 84 -9
+.ATT_END
+.EQN 1 34 319 0 0
+84,-9
+.TXT 1 -26 245 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard tau}
+.EQN 1 -15 270 0 0
+43
+.EQN 12 7 296 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s4'5Y=a!1!"$G4'5Y=a!:!"JS4'5Y=a!34(%iDG5Y-A!9!"!!-A!3<86k>{5Y0'!16o8/#n!31L!(9V8/#m!i6l1q%{"s"<!y6l"C-A!4)2*3>{5Y0'!16o8/&.!:#p!(9V8/#m!i6l8?$:"s"<!i6m6k-A
+!8+vH_DG3m87876s8/87879./=DG3m8787"K87"K877>L'DG3m878/87876s878):CDG3m876k"K87!!877L+E4'5Y=a!5+v)a4'5Y=a!7Ab!Q4'5Y=a!36l474'5Y=a!:>|=y4'5Y=a!3<8(r!Q
+
+.ATT
+.STATUS Capital Upsilon
+.PASTEKEY 85 -9
+.ATT_END
+.EQN 1 34 320 0 0
+85,-9
+.EQN 1 -41 271 0 0
+44
+.TXT 0 14 246 0 0
+Cg a56.000000,56.000000,7
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard upsilon}
+.EQN 7 -7 297 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&m!q"<"k6m#u.[5Y=a!A!,!(9U8/%)!1!%8/&K"S"<!y6l"C-A!A!,!(9T8/%)!Q!$8/&m#5"18787"K6s8/8780#v#5"1878/876s87"K8/!!#5"1878/876s87"K88:{#5"1878/876s87"K8/!!
+#5"18787"K6s8/878/!!"s"<!Y6l6k)1!Y6m!!9Q5Y0'!16o8/&K"s"<!i6l6k#e!i6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Capital Phi
+.PASTEKEY 70 -9
+.ATT_END
+.EQN 1 34 321 0 0
+70,-9
+.TXT 1 -26 247 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard phi}
+.EQN 1 -15 272 0 0
+45
+.EQN 10 6 298 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!3!"!!.[5Y=a!E+|!(9[8/%2!:!&!(9[8/&K#5"1878/!)876k"K8/,[#5"18787"K878/8780#n#5"187876s876s8781!!#5"187878/87"K8783!!"s"<!i6m6k-A!:6l"C9Q5Y0'!16o8/&k"3"<!i6m6k2k
+#5"187878/87"K878/!!#5"187876s876s878/!!#5"18787"K878/8780#v#5"1878/!)876k"K8/!!!q"<"k6m!!.[5Y=a!A!(!(9[8/#h!1!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Capital Chi
+.PASTEKEY 67 -9
+.ATT_END
+.EQN 1 35 322 0 0
+67,-9
+.EQN 1 -41 273 0 0
+46
+.TXT 0 14 248 0 0
+Cg a56.000000,56.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard chi}
+.EQN 12 -7 299 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG5Y-A!9!"!!-A!7.\Iq>{5Y0'!16o8/$l!@!,!(9V8/#m!i6l2C%i"S"<!y6l"C-A!A!(!(9V8/#m"+6x!(9U8/&K!16n8/$+!5G:!'HW876k8/8/"K87
+!!!.!'HW876s8/87"K87$(9^!'HW87"K8/876s87!)6x!'HW87"K8/876s87<7<D!'HW8/"K6k"K6k87(1!&!(9[8/'Q"3"<"k6l!a#m"3"<"k6l;%#e!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Capital Psi
+.PASTEKEY 89 -9
+.ATT_END
+.EQN 1 34 323 0 0
+89,-9
+.TXT 1 -26 249 0 0
+Cg a55.000000,55.000000,3
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard psi}
+.EQN 1 -15 274 0 0
+47
+.EQN 12 7 300 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 108
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A+|!(9[8/#u!2#l!(9[8/$)!1&R!(9[8/#e!5,$!'HW87!!"K!!"K879Y!.!'HW87"K"K"K"K87!#&V!(9U8/#m!9!%8/'-#5"18787!)87!)878/:s#5"18787"K876s8781!!#5"1878/87878/8783,[#5"1
+878/87878/8787;%#5"1878/87878/878/!!#5"18787"K876s878/,[#5"18787!)87!)8780#n"s"<!i6m!!-A!3!"!!4'5Y=a!5!"!!4'5Y=a!:6l"C.[5Y=a!C!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Capital Omega
+.PASTEKEY 87 -9
+.ATT_END
+.EQN 2 -7 275 0 0
+48
+.TXT 0 14 250 0 0
+Cg a56.000000,56.000000,5
+{\rtf1\ansi \deff0{\colortbl;\red0\green0\blue128;}{\fonttbl{\f0
+\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard omega}
+.EQN 0 27 324 0 0
+87,-9

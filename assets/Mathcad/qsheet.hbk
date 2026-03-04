@@ -1,0 +1,643 @@
+;Mathcad 7 Professional Resource Center
+;Copyright (c) 1997 MathSoft, Inc. All rights reserved.
+;rev 6/4/97
+.version 7.0
+.titleResource Center
+; Main Entry Point
+TOC	map.mcd	: Table of Contents
+;
+overview	overview.mcd	: An Overview of Mathcad
+;
+;Tutorial	   
+TUT_TOC	contents.mcd	: Tutorial Contents
+intro	intro.mcd	: Introduction to the Tutorial
+toolbar	toolbar.mcd	: Mathcad Tool Bars and Palettes
+qwiktour	qwiktour.mcd	: Quick Mathcad Tour
+steps	steps.mcd 	: Step-by-Step Editing Guide
+; STEP BY STEP INSTRUCTIONS		
+workreg	workreg.mcd 	: Working with Mathcad Regions
+entedit	entedit.mcd	: Entering Math and Text
+styles	styles.mcd	: Working with Styles and Templates
+defvar	defvar.mcd	: Defining Variables
+deffun	deffun.mcd	: Defining Functions
+buildexp	buildexp.mcd 	: Building Mathematical Expressions
+editexp	editexp.mcd	: Editing Expressions
+defrange	defrange.mcd	: Defining Range Variables
+defvect	defvect.mcd 	: Defining Vectors and Matrices
+creatgra	creatgra.mcd	: Creating Graphs
+formmatx	formmatx.mcd	: Formatting Math and Text
+formres	formres.mcd 	: Formatting Results
+useunits	useunits.mcd	: Using Units
+help	help.mcd	: Where to Get More Help
+;
+;QuickSheets
+;
+toc_qs 	 toc_qs.mcd	: QuickSheets Contents
+about	about.mcd	: About QuickSheets
+;PERSONAL QUICKSHEETS		
+notes           notes.mcd  autosave      : Personal QuickSheets
+myform          myform.mcd autosave     : Personal Formulas
+myprog          myprog.mcd autosave     : Personal Programs
+myoper   myoper.mcd autosave    : Personal Operators
+mylink          mylink.mcd autosave     : Personal Hot Links
+;ARITHMETIC AND ALGEBRA					 		
+arithtoc	arithtoc.mcd	: Arithmetic and Algebra Contents
+basic	basic.mcd	: Arithmetic Operations
+trig	trig.mcd		: Trigonometric Functions (Radians)
+trigdeg	trigdeg.mcd	: Trigonometric Functions (Degrees)
+log	log.mcd		: Natural and Base 10 Logarithms
+logb	logb.mcd	: Logarithms to Any Base
+factint	factint.mcd	: Factoring an Integer
+complex	complex.mcd	: Operations with Complex Numbers
+binomcof	binomcof.mcd	: Calculating Binomial Coefficients
+findgcd	findgcd.mcd	: Finding the GCD of Two Integers
+findprim	findprim.mcd	: Finding Prime Numbers
+octhex	octhex.mcd	: Converting to Octal and Hexadecimal Numbers
+binary	binary.mcd	: Binary Representation of a Decimal
+tempconv	tempconv.mcd	: Temperature Conversions
+raddms	raddms.mcd	: Converting Radians to Deg-Min-Sec
+a080seed	a080seed.mcd	: Using Range Variables for Seeded Iteration
+osumprod	osumprod.mcd	: Iterated Sums and Products
+opsfig1	opsfig1.mcd	: Range Sums and Products
+opslogic	opslogic.mcd	: Boolean Operators
+opera	opera.mcd	: Custom-Designed Operators
+roundoff	roundoff.mcd	: Truncation and Round-Off Functions
+f080	f080.mcd	: Sorting Functions
+fconditi	fconditi.mcd	: Conditional Function
+f090	f090.mcd	: Until Function
+filterin	filterin.mcd	: Impulse and Step Functions
+prdcfncts	prdcfncts.mcd	: Defining Periodic Functions
+symbnume	symbnume.mcd	: Symbolic Summation
+symkeywo	symkeywo.mcd	: Live Symbolic Algebra 
+symbmenu	symbmenu.mcd	: Symbolic Menu Algebra
+sym15	sym15.mcd	: Substituting an Expression for a Variable
+polycof	polycof.mcd	: Finding Polynomial Coefficients
+primes	primes.mcd	: Finding Prime Numbers (II): Recursive Approach 
+primfact	primfact.mcd	: Factoring an Integer via Programming 
+charstr7	charstr7.mcd	: Character String Manipulation 
+bitstr7	bitstr7.mcd	: Bit Fiddling 
+upplowr7	upplowr7.mcd	: ASCII Code Conversion 
+findstr7	findstr7.mcd	: Finding Substring Locations
+rptcnct7	rptcnct7.mcd	: Repeated Concatenation of Strings
+addlrg7	addlrg7.mcd	: Large Integer Addition via Strings
+newkey_a.	newkey_a.mcd	: Advanced Symbolic Keywords - Algebra
+seq2vec7	seq2vec7.mcd	: Converting Text Numerical Sequence to Data Vector
+days7	days7.mcd	: Days of the Week 
+dates	dates.mcd	: Days Between Dates
+;FINANCE
+finantoc	finantoc.mcd	: Business and Finance Contents
+compinte	compinte.mcd	: Computing Compound Interest
+presval	presval.mcd	: Present Value
+presvals	presvals.mcd	: Present Value of Stream of Periodic Payments
+npv	npv.mcd	: Net Present Value
+futval	futval.mcd	: Future Value
+futvala	futvala.mcd	: Future Value of an Annuity
+ratea	ratea.mcd	: Interest Rate of an Annuity
+paymt	paymt.mcd	: Payment on a Loan
+intsimp	intsimp.mcd	: Ordinary and Exact Simple Interest
+apr	apr.mcd	: Add-On Interest Rate Converted to APR
+compmort	compmort.mcd	: Fixed-Rate Mortgages
+adjmort	adjmort.mcd	: Adjustable-Rate Mortgages
+irr	irr.mcd	: Internal Rate of Return
+mirr	mirr.mcd	: Modified Internal Rate of Return
+invdoub	invdoub.mcd	: Doubling Time for an Investment
+sldeprec	sldeprec.mcd	: Straight-Line Depreciation
+dbdeprec	dbdeprec.mcd	: Declining-Balance Depreciation
+ddbdepre	ddbdepre.mcd	: Double-Declining-Balance Depreciation
+sydeprec	sydeprec.mcd	: Sum-of-the-Years'-Digits Depreciation
+bondyiel	bondyiel.mcd	: Bond Yield to Maturity
+bondmod	bondmod.mcd	: Bond Modified Duration
+mcmr	mcmr.mcd	: Marginal Cost and Marginal Revenue
+brkeven	brkeven.mcd	: Breakeven Analysis
+prftmrgn	prftmrgn.mcd	: Profit Margin
+;UNITS		
+unitstoc	unitstoc.mcd	: Units Contents
+unitsdef	unitsdef.mcd	: Defining Units
+unitspre	unitspre.mcd	: Unit Prefixes
+unitsplt	unitsplt.mcd	: Converting Units for a Plot
+unitscal	unitscal.mcd	: Converting Units for a Scalar Result
+unitsvec	unitsvec.mcd	: Converting Units for a Vector of Results
+unitstbl	unitstbl.mcd	: Converting Units for an Output Table
+;VECTORS AND MATRICES		
+matritoc	matritoc.mcd	: Vectors and Matrices Contents
+basicmat	basicmat.mcd	: Operations on Square Matrix
+rowcol	rowcol.mcd	: Extracting Rows and Columns
+creatabl	creatabl.mcd	: Creating a Table of Values
+creatmat	creatmat.mcd	: Creating a Matrix of Values
+rref	rref.mcd	: Matrix Row Reduction
+dec2vec	dec2vec.mcd	: Converting Decimal to Vector
+vec2dec	vec2dec.mcd	: Converting Vector to Decimal
+rangevec	rangevec.mcd	: Converting a Range into a Vector
+pickelem	pickelem.mcd	: Picking Elements from Vector
+aw1	aw1.mcd	: Packing a Vector into an Array
+aw7	aw7.mcd	: Unwrapping an Array into a Vector
+aw2	aw2.mcd	: Randomizing a Vector
+aw3	aw3.mcd	: Randomizing an Array
+aw4	aw4.mcd	: Extracting Vector Elements
+aw5	aw5.mcd	: Extracting Matrix Elements
+aw6	aw6.mcd	: Inserting a Subarray into an Array
+aw8	aw8.mcd	: Intersection of Two Vectors of Numbers
+mo60vop	mo60vop.mcd	: Array Algebra
+mo70vfu	mo70vfu.mcd	: Array Size and Scope 
+matrices	matrices.mcd	: Functions for Transforming Arrays 
+spctypes	spctypes.mcd	: Special Types of Matrices
+spcchars	spcchars.mcd	: Special Characteristics of Matrices
+joinder	joinder.mcd	: Joining Matrices 
+submatrx	submatrx.mcd	: Extracting Submatrices
+meigen16	meigen16.mcd	: Finding Eigenvalues and Eigenvectors
+meigen32	meigen32.mcd	: Using Eigenvecs to Find All Eigenvectors
+svd	svd.mcd	: Decomposition of Matrices 
+solvline 	solvline.mcd	: Solving a Linear System 
+mo90qvec	mo90qvec.mcd	: Vectorizing an Expression
+m100sdef	m100sdef.mcd	: Simultaneous Definition of Variables 
+m100swap	m100swap.mcd	: Swapping Variables Using Arrays 
+m110ufun	m110ufun.mcd	: Array-valued Functions
+nestdef	nestdef.mcd	: Defining Nested Arrays
+nestshow	nestshow.mcd	: Displaying Nested Arrays
+sym18	sym18.mcd	: Symbolic Matrix Computations
+elmrwops	elmrwops.mcd	: Elementary Row Operations on Matrices
+mtrx 	mtrx.mcd	: The Matrix Function
+;SOLVING EQUATIONS		
+answetoc	answetoc.mcd	: Solving Equations Contents
+solvquad	solvquad.mcd	: Finding Roots of a Quadratic
+solvroot	solvroot.mcd	: Solving Equation in Single Unknown
+solvline	solvline.mcd	: Solving a Linear System
+solvnonl	solvnonl.mcd	: Solving a Nonlinear System
+s010root	s010root.mcd	: Effects of TOL on Solving Equations
+s020ufrt	s020ufrt.mcd	: Solving Each of a Family of Equations
+proot	proot.mcd	: Finding the Roots of a Polynomial
+s040cons	s040cons.mcd	: Solve Blocks with Inequality Constraints
+sminerr	sminerr.mcd	: Using Minerr For Non-Linear Least Squares Fitting
+sym13	sym13.mcd	: Symbolic Solutions of Equations
+solvsym	solvsym.mcd	: Symbolic Solve Blocks
+;GRAPHING AND VISUALIZATION	
+plottoc	plottoc.mcd	: Graphing and Visualization Contents
+qwikplot	qwikplot.mcd	: Quick X-Y Plot
+qwikplde	qwikplde.mcd	: Quick Function and Derivative Plot
+qwikdata	qwikdata.mcd	: Quick Plot of Data
+param2d	param2d.mcd	: Parametric Curve
+drawcirc	drawcirc.mcd	: Plotting a Circle
+drawsphe	drawsphe.mcd	: Plotting a Sphere
+surfrot	surfrot.mcd	: Surface of Rotation about X Axis
+surfroty	surfroty.mcd	: Surface of Rotation about Y Axis
+levcurv	levcurv.mcd	: Level Curves
+qwikxyz	qwikxyz.mcd	: Quick 3D Scatter Plot
+qwikxyzv	qwikxyzv.mcd	: Quick 3D Plot of Vectors
+qwikbars	qwikbars.mcd	: Quick 3D Bar Chart
+qwiksurf	qwiksurf.mcd	: Quick Surface Plot
+qwikvecf	qwikvecf.mcd	: Quick Vector Field Plot
+qwikgrad	qwikgrad.mcd	: Quick Gradient Field Plot
+normplot	normplot.mcd	: Normal Quantile-Quantile Plot
+odeqs2	odeqs2.mcd	: Phase Plot for a First Order ODE
+odeqs5	odeqs5.mcd	: Phase Plot for a Higher Order ODE
+rectpol	rectpol.mcd	: Rectangular to Polar Coordinates
+polrect	polrect.mcd	: Polar to Rectangular Coordinates
+rectcyl	rectcyl.mcd	: Rectangular to Cylindrical Coordinates
+cylrect	cylrect.mcd	: Cylindrical to Rectangular Coordinates
+rectsphe	rectsphe.mcd	: Rectangular to Spherical Coordinates
+spherect	spherect.mcd	: Spherical to Rectangular Coordinates
+a060itr	a060itr.mcd	: Using Range Variables for Plotting Curves
+cmplxplt	cmplxplt.mcd	: Graphing Complex-Valued Functions of Complex Variable  
+grayread	grayread.mcd	: Reading a Grayscale Image into a Matrix   
+coloread	coloread.mcd	: Reading a Color Image into a Matrix  
+saveimg	saveimg.mcd	: Writing Images to a Bitmap File
+extrcimg	extrcimg.mcd	: Extracting a Subimage from an Image   
+grayimg	grayimg.mcd	: Grayscale Image Processing   
+colorimg	colorimg.mcd	: Color Image Processing 
+convol2d	convol2d.mcd	: Convolution in Two Dimensions 
+medlft2d	medflt2d.mcd	: Median Filtering in Two Dimensions
+;CALCULUS AND DIFFERENTIAL EQUATIONS		
+calctoc	calctoc.mcd	: Calculus and Differential Equations Contents
+numdiff	numdiff.mcd	: Numerical Differentiation
+numint	numint.mcd	: Numerical Integration
+symbdiff	symbdiff.mcd	: Symbolic Differentiation
+symbint	symbint.mcd	: Symbolic Integration
+series	series.mcd	: Expanding Function in a Power Series
+limit	limit.mcd	: Limit of a Function at a Point
+arcleng	arcleng.mcd	: Arc Length of a Function
+odeqs1	odeqs1.mcd	: Solving First Order ODE Initial Value Problem
+odeqs3	odeqs3.mcd	: Solving a First Order System of ODEs
+odeqs4	odeqs4.mcd	: Solving a Higher Order ODE Initial Value Problem
+odeqs6	odeqs6.mcd	: Solving an ODE Boundary Value Problem
+opsfig4	opsfig4.mcd	: Computing the Derivative of a Function at Several Points
+opsfig7	opsfig7.mcd	: Effects of TOL on Definite Integration
+opsfig8	opsfig8.mcd	: Numerical Contour Integrals
+opsfig9	opsfig9.mcd	: Numerical Double Integrals
+smseries	smseries.mcd	: Live Symbolic Calculus 
+sym16	sym16.mcd	: Symbolic Menu Calculus  
+sym17	sym17.mcd	: Partial Fraction Decomposition  
+transfor	transfor.mcd 	: Symbolic Transforms 
+surfarea	surfarea.mcd 	: Computing the Surface Area of a Function  
+grwthdcy	grwthdcy.mcd	: Exponential Growth and Decay 
+dampharm	dampharm.mcd	: Damped Harmonic Oscillation 
+potent	potent.mcd	: Planetary Orbits 
+smplpnd	smplpnd.mcd	: Simple Pendulum Motion 
+sturmlvl	sturmlvl.mcd	: Eigenvalues and Eigenfunctions 
+heat	heat.mcd	: Heat Flow on a Square Plate 
+mntcarlo	mntcarlo.mcd	: Monte Carlo Integration   
+curv	curv.mcd	: Tangents, Normals and Curvature   
+vctrdiff	vctrdiff.mcd	: Gradient, Divergence, and Curl 
+jacob	jacob.mcd	: Jacobian Matrix and Determinant
+newkey	newkey_t.mcd	: Advanced Symbolic Keywords - Transforms  
+;DATA ANALYSIS 
+fittoc	fittoc.mcd	: Data Analysis Contents
+linterp	linterp.mcd	: Linear Interpolation
+spline	spline.mcd	: Spline Interpolation
+2dspline	2dspline.mcd	: 2D Spline Interpolation
+linregre	linregre.mcd	: Linear Regression
+polyregr	polyregr.mcd	: Polynomial Regression
+multregr	multregr.mcd	: Multiple Linear Regression
+lstsqr	lstsqr.mcd	: Least-Squares Fitting
+genfit	genfit.mcd	: Least-Squares Fitting with General Functions
+supsmu	supsmu.mcd	: Smoothing by Local Averaging
+medsmuth	medsmuth.mcd	: Median Smoothing
+kernsmu	kernsmu.mcd	: Kernel Smoothing
+smuloess	smuloess.mcd	: Loess Smoothing
+expsmu	expsmu.mcd	: Exponential Smoothing
+mvgavg	mvgavg.mcd	: Moving Average Smoothing
+histogra	histogra.mcd	: Histogram Frequency Distribution
+comphist	comphist.mcd	: Histogram Compared to Normal Distribution
+fourcoef	fourcoef.mcd	: Computing Fourier Coefficients
+nonlfit	nonlfit.mcd	: Nonlinear Curve Fitting Using Genfit
+f060	f060.mcd	: FFT
+wvlts	wvlts.mcd	: Wavelet Transforms
+multread	multread.mcd	: Reading Multiple Files Inside a Program
+; STATISTICS     
+stattoc	stattoc.mcd	: Statistics Contents
+probdist	probdist.mcd	: Using Probability Distributions
+basicsta	basicsta.mcd	: Basic Statistics
+stderror	stderror.mcd	: Computing Standard Errors
+rnduni	rnduni.mcd	: Uniformly Distributed Random Numbers
+rndnorm	rndnorm.mcd	: Normally Distributed Random Numbers
+rndexp	rndexp.mcd	: Exponentially Distributed Random Numbers
+montcarl	montcarl.mcd	: Monte Carlo Probability Estimation
+estimean	estimean.mcd	: Estimating a Mean
+zscore	zscore.mcd	: Z Score
+tscore	tscore.mcd	: t Score
+tmean	tmean.mcd	: t Test on Means
+goodness	goodness.mcd	: Goodness of Fit
+signtest	signtest.mcd	: HT Median
+hyptst01	hyptst01.mcd	: HT Mean
+hyptst02	hyptst02.mcd	: HT Mean, Unknown Variance
+hyptst03	hyptst03.mcd	: HT Standard Deviation
+hyptst05	hyptst05.mcd	: HT Proportion
+hyptst06	hyptst06.mcd 	: HT Linear Regression Slope
+hyptst07	hyptst07.mcd	: HT Ratio of Population Variances
+hyptst08	hyptst08.mcd 	: HT Difference of Means, Large Sample
+hyptst09	hyptst09.mcd	: HT Difference of Means, Small Sample, Equal Var
+hyptst10	hyptst10.mcd	: HT Difference of Means, Small Sample, Unequal Var
+hyptst11	hyptst11.mcd	: HT Equality of Two Proportions
+confint1	confint1.mcd	: CI Mean
+confint2	confint2.mcd	: CI Mean, Unknown Variance
+confint3	confint3.mcd	: CI Variance
+confint4	confint4.mcd	: CI Standard Deviation
+confint5	confint5.mcd	: CI Proportion
+confint6	confint6.mcd	: CI Linear Regression Slope
+confint7	confint7.mcd	: CI Ratio of Population Variances
+confint8	confint8.mcd	: CI Difference of Means, Large Sample
+confint9	confint9.mcd	: CI Difference of Means, Small Sample, Equal Var
+conint10	conint10.mcd	: CI Difference of Means, Small Sample, Unequal Var
+conint11	conint11.mcd	: I Equality of Two Proportions
+anova	anova.mcd	: Single-Factor ANOVA
+princomp	princomp.mcd	: Principal Component Analysis
+pnorm	pnorm.mcd	: Probability Density and Cumulative Distribution
+;Components in Mathcad
+comptoc	comptoc.mcd	: Components in Mathcad Contents
+sunspot	sunspot.mcd	: Inserting an Excel Component
+poisson	poisson.mcd	: Inserting an Axum Component
+matlab	matlab.mcd	: Inserting a Matlab Component
+lottery	lottery.mcd	: New Jersey Pick-It Lottery with Axum and Excel
+visio2	visio1.mcd	: Visio RC Circuit Solver
+visio1	visio2.mcd	: Mathcad-Driven Visio Drawing
+lotus123 lotus123.mcd	: Inserting a Lotus 1-2-3 Scripted Component
+imagine	imagine.mcd	: Mathcad-Driven Imagineer CAD Drawing
+;SPECIAL FUNCTIONS
+specitoc 	specitoc.mcd	: Special Functions Contents
+catalan	 catalan.mcd	: G: Catalan's Constant
+chi 	chi.mcd	: Chi: Hyperbolic Cosine Integral
+ci 	ci.mcd	: Ci: Cosine Integral
+csgn 	csgn.mcd	: csgn: Sign Function (Real and Complex) 
+dilog 	dilog.mcd	: dilog: Dilogarithm Function
+dirac 	dirac.mcd	: Dirac: Dirac Delta (Unit Impulse) Function   
+ei 	ei.mcd	: Ei: Exponential Integral
+erf 	erf.mcd	: erf: Real and Complex Error Functions   
+euler 	euler.mcd	: g: Euler's Constant   
+fresnelc 	fresnelc.mcd	: FresnelC: Fresnel Cosine Integral   
+fresnels 	fresnels.mcd	: FresnelS: Fresnel Sine Integral
+gamma	gamma.mcd	: G: Gamma Function
+hypergeo 	hypergeo.mcd	: hypergeom: Hypergeometric Function   
+leg_e 	leg_e.mcd	: LegendreE: Incomplete Elliptic Integral 
+leg_ec	leg_ec.mcd	: LegendreEc: Complete Elliptic Integral 
+leg_ec1	leg_ec1.mcd 	: LegendreEc1: Associated Complete Elliptic Integral 
+leg_f 	leg_f.mcd	: LegendreF: Incomplete Elliptic Integral
+leg_kc 	leg_kc.mcd	: LegendreKc: Complete Elliptic Integral 
+leg_kc1	leg_kc1.mcd	: LegendreKc1: Associated Complete Elliptic Integral 
+leg_pi 	leg_pi.mcd	: LegendrePi: Incomplete Elliptic Integral
+leg_pic 	leg_pic.mcd	: LegendrePic: Complete Elliptic Integral 
+leg_pic1	leg_pic1.mcd	: LegendrePic1: Associated Complete Elliptic Integral
+psi 	psi.mcd	: Psi: Digamma Function 
+psin 	psin.mcd	: Psin: Polygamma Function   
+shi 	shi.mcd	: Chi: Hyperbolic Sine Integral 
+si 	si.mcd	: Si: Sine Integral
+signum 	signum.mcd	: signum: Sign Function (Real) 
+w 	w.mcd	: W: Lambert's W Function   
+zeta 	zeta.mcd	: Zeta: Riemann Zeta Function   
+;PROGRAMMING		
+progrtoc	progrtoc.mcd	: Programming Contents
+basicpro	basicpro.mcd	: Basic Uses of Programming Operators
+condtnl	condtnl.mcd	: Conditional Statements
+for_itr	for_itr.mcd	: For Loops
+whl_itr	whl_itr.mcd	: While Loops
+recursv	recursv.mcd	: Recursive Functions
+primes	primes.mcd	: Finding Prime Numbers (II)   Recursive approach
+primfact	primfact.mcd	: Factoring an Integer via Programming
+newret	newret.mcd	: Using the Return Operator
+newcnt	newcnt.mcd	: Using the Continue Operator
+newerr	newerr.mcd	: Using the On Error Operator and the Error Function		
+;ANIMATION		
+animatoc	animatoc.mcd	: Animations Contents
+tangraph	tangraph.mcd	: Tangent Line Animation
+spirogra	spirogra.mcd	: Spiral Animation
+standwav	standwav.mcd	: Standing Wave Animation
+binomsim	binomsim.mcd	: Binomial Simulation Animation
+canimate	canimate.mcd	: Contour Map Animation
+bubble	bubble.mcd	: Animating the Bubble Sort  
+gibbs	gibbs.mcd	: Gibbs' Phenomenon  
+torus	torus.mcd	: Rolling a Rectangular Region into a Torus   
+spacefil	spacefil.mcd	: Space-Filling Curve   
+world	world.mcd	: Rotating Earth   
+ifs	ifs.mcd	: Animating an Iterated Function System
+;MATH SYMBOLS
+symbols	symbols.mcd	: Extra Math Symbols
+;
+;Reference Tables
+toc_fctb	toc_fctb.mcd	: Reference Tables
+1_2	1_2.mcd	: Fundamental Physical Constants
+fp09_3	fp09_3.mcd	: Temperature Scales
+period	period.mcd	: Periodic Table of Elements
+m23_01	m23_01.mcd	: Table of Derivative Formulas
+m23_02	m23_02.mcd	: Table of Integral Formulas
+6_1	6_1.mcd	: Thermal Conductivity
+6_2	6_2.mcd	: Specific Gravity
+6_3	6_3.mcd	: Linear Expansion Coefficient
+6_4	6_4.mcd	: Electrical Resistivity
+6_5	6_5.mcd	: Poisson's Ratio
+6_6	6_6.mcd	: Modulus of Elasticity
+6_7	6_7.mcd	: Approximate Melting Point
+6_8	6_8.mcd	: Temperature Coefficient of Resistivity
+7_1	7_1.mcd	: Density of Liquids
+7_2	7_2.mcd	: Viscosity of Liquids
+7_3	7_3.mcd	: Specific Gravity of Liquids
+7_4	7_4.mcd	: Sound Velocity of Liquids 
+7_5	7_5.mcd	: Surface Tension of Liquids 
+7_6	7_6.mcd	: Dielectric Constant of Liquids 
+7_7	7_7.mcd	: Index of Refraction of Liquids 
+7_8	7_8.mcd	: Molecular Weight of Liquids 
+8_1	8_1.mcd	: Density of Solids
+8_2	8_2.mcd	: Specific Gravity of Solids
+8_3	8_3.mcd	: Specific Heat of Solids 
+8_4	8_4.mcd	: Thermal Conductivity of Solids 
+8_5	8_5.mcd	: Dielectric Constant of Solids 
+9_1	9_1.mcd	: Specific Gravity of Gases
+9_2	9_2.mcd	: Specific Heats of Gases 
+9_3	9_3.mcd	: Sound Velocity of Gases 
+9_4	9_4.mcd	: Molecular Weight of Gases 
+fe01_01	fe01_01.mcd	: Earth Statistics
+fe05_02	fe05_02.mcd	: Geologic Age Statistics
+fe07_00	fe07_00.mcd	: Ocean Statistics
+fe09_10	fe09_10.mcd	: Solar System Statistics
+;
+;Desktop Reference
+;Geometry
+3.1	3_1.mcd	: Areas and Perimeters
+3.1.1	3_1_1.mcd	: Triangle
+3.1.2	3_1_2.mcd	: Rectangle
+3.1.3	3_1_3.mcd	: Parallelogram
+3.1.4	3_1_4.mcd	: Trapezoid
+3.1.5	3_1_5.mcd	: Circle
+3.1.6	3_1_6.mcd	: Inscribed Circle
+3.1.7	3_1_7.mcd	: Circumscribed Circle
+3.1.8	3_1_8.mcd	: Sector of a Circle
+3.1.9	3_1_9.mcd	: Circular Segment
+3.1.10	3_1_10.mcd	: Regular Polygon
+3.1.11	3_1_11.mcd	: Inscribed Polygon
+3.1.12	3_1_12.mcd	: Circumscribed Polygon
+3.1.13	3_1_13.mcd	: Parabolic Segment
+3.1.14	3_1_14.mcd	: Ellipse
+3.1.15	3_1_15.mcd	: Cardioid
+3.1.16	3_1_16.mcd	: Cycloid
+3.1.17	3_1_17.mcd	: Hypocycloid
+3.1.18	3_1_18.mcd	: Lemniscate
+3.2	3_2.mcd	: Volumes and Surface Areas
+3.2.1	3_2_1.mcd	: Rectangular Prism
+3.2.2	3_2_2.mcd	: Parallelepiped
+3.2.3	3_2_3.mcd	: Right Circular Cylinder
+3.2.6	3_2_6.mcd	: Pyramid
+3.2.7	3_2_7.mcd	: Right Circular Cone
+3.2.8	3_2_8.mcd	: Frustum of Cone
+3.2.9	3_2_9.mcd	: Sphere
+3.2.10	3_2_10.mcd	: Spherical Cap
+3.2.11	3_2_11.mcd	: Spherical Triangle
+3.2.12	3_2_12.mcd	: Torus
+3.2.13	3_2_13.mcd	: Ellipsoid
+3.2.14	3_2_14.mcd	: Paraboloid
+; 4.1 CENTROIDS
+4.1	4_1.mcd	: Centroids
+4.1.1	4_1_1.mcd	: Triangular Area
+4.1.2	4_1_2.mcd	: Quarter Circle Area
+4.1.3	4_1_3.mcd	: Semicircular Area
+4.1.4	4_1_4.mcd	: Circular Sector
+4.1.5	4_1_5.mcd	: Semiparabolic Area
+4.1.6	4_1_6.mcd	: Parabolic Area
+4.1.7	4_1_7.mcd	: Parabolic Spandrel
+4.1.8	4_1_8.mcd	: Quarter Circular Arc
+4.1.9	4_1_9.mcd	: Semicircular Arc
+4.1.10	4_1_10.mcd	: Arc of a Circle
+;4.2 MOMENTS OF INERTIA		
+4.2	4_2.mcd	: Mass Moments of Inertia
+4.2.1	4_2_1.mcd	: Slender Rod
+4.2.2	4_2_2.mcd	: Thin Rectangular Plate
+4.2.3	4_2_3.mcd	: Thin Disk
+4.2.4	4_2_4.mcd	: Circular Cylinder
+4.2.5	4_2_5.mcd	: Rectangular Prism
+4.2.6	4_2_6.mcd	: Sphere
+4.2.7	4_2_7.mcd	: Circular Cone
+;5.1 CAPACITANCE		
+5.1	5_1.mcd	: Capacitance
+5.1.1	5_1_1.mcd	: Capacitance: Parallel Plates
+5.1.2	5_1_2.mcd	: Capacitance: Coaxial Cylinders
+5.1.3	5_1_3.mcd	: Capacitance: Isolated Sphere
+5.1.4	5_1_4.mcd	: Capacitance: Concentric Spheres
+;5.2 OSCILLATORS		
+5.2	5_2.mcd	: Oscillators
+5.2.1	5_2_1.mcd	: Oscillators: RC Phase Shift
+5.2.2	5_2_2.mcd	: Oscillators: Tuned Output
+5.2.3	5_2_3.mcd	: Oscillators: Colpitts
+5.2.4	5_2_4.mcd	: Oscillators: Clapp
+5.2.5	5_2_5.mcd	: Oscillators: Hartley
+5.2.6	5_2_6.mcd	: Oscillators: Pierce
+;
+;Practical STATISTICS	 
+STAT_TOC	stat_toc.mcd	: Practical Statistics Contents
+ABOUT2	aboustat.mcd	: About Practical Statistics
+STA100	stat_100.mcd	: What Is Hypothesis Testing?
+STA101	stat_101.mcd	: Introduction 
+STA102	stat_102.mcd	: The Methodology
+STA200	stat_200.mcd	: Overview
+STA201	stat_201.mcd	: Probability Terms
+STA202	stat_202.mcd	: Hypothesis Testing Terms
+STA300	stat_300.mcd	: Overview
+STA301	stat_301.mcd	: Introduction
+STA302	stat_302.mcd	: The Normal Distribution
+STA303	stat_303.mcd	: Student's t Distribution
+STA304	stat_304.mcd	: The Chi-Square Distribution
+STA305	stat_305.mcd	: The F Distribution
+STA306	stat_306.mcd	: The Binomial Distribution
+STA307	stat_307.mcd	: The Poisson Distribution
+STA308	stat_308.mcd	: Distribution Relationships
+STA400	stat_400.mcd	: Overview
+STA401	stat_401.mcd	: Testing Population Means
+STA402	stat_402.mcd	: Testing Variances
+STA403	stat_403.mcd	: Testing Probabilities
+STA404	stat_404.mcd	: Comparing Parameters
+STA405	stat_405.mcd	: Testing Other Parameters
+STA500	stat_500.mcd	: Overview
+STA501	stat_501.mcd	: The Sign Test
+STA502	stat_502.mcd	: The Signed Rank Test
+STA503	stat_503.mcd	: The U Test
+STA504	stat_504.mcd	: The Kruskal-Wallis Test
+STA505	stat_505.mcd	: Randomness Tests
+STA600	stat_600.mcd	: Overview
+STA601	stat_601.mcd	: The Chi-Square Test
+STA602	stat_602.mcd	: Goodness-Of-Fit
+STA603	stat_603.mcd	: Contingency Tables
+STA604	stat_604.mcd	: One-Way ANOVA
+STA605	stat_605.mcd	: Two-Way ANOVA
+DA10	da1_0.mcd	: Basic Concepts
+DA11	da1_1.mcd	: Introduction
+DA12	da1_2.mcd	: Managing Data in Mathcad
+DA13	da1_3.mcd	: An Overview of Analysis
+DA14	da1_4.mcd	: Types of Data
+DA20	da2_0.mcd	: Descriptives
+DA21	da2_1.mcd	: Frequencies
+DA22	da2_2.mcd	: Graphing Frequencies
+DA23	da2_3.mcd	: Graphing Frequencies
+DA24	da2_4.mcd	: Measures of Central Tendency
+DA25	da2_5.mcd	: Percentiles
+DA26	da2_6.mcd	: Measures of Dispersion
+DA27	da2_7.mcd	: Normality, Skewness, Kurtosis
+DA30	da3_0.mcd	: Estimation
+DA31	da3_1.mcd	: Generating Random Numbers
+DA311	da3_1_1.mcd	: Exponential Random Numbers
+DA312	da3_1_2.mcd	: Normal Random Numbers
+DA313	da3_1_3.mcd	: Poisson Random Numbers
+DA32	da3_2.mcd	: Sampling Distributions
+DA321	da3_2_1.mcd	: Sample Mean
+DA322	da3_2_2.mcd	: Sample Variance
+DA33	da3_3.mcd	: Point Estimates
+DA34	da3_4.mcd	: Confidence Intervals
+DA35	da3_5.mcd	: Bootstrap Estimates
+DA40	da4_0.mcd	: Simple Linear Regression
+DA41	da4_1.mcd	: Correlation
+DA42	da4_2.mcd	: Simple Linear Models
+DA43	da4_3.mcd	: Least Squares Estimators
+DA44	da4_4.mcd	: Checking Assumptions
+DA45	da4_5.mcd	: Inference for Population
+DA46	da4_6.mcd	: Goodness of Fit
+DA47	da4_7.mcd	: Analysis of Variance Table
+DA48	da4_8.mcd	: Prediction
+DA49	da4_9.mcd	: Outliers
+DA50	da5_0.mcd	: Multiple Regression
+DA51	da5_1.mcd	: The Model and Estimation
+DA52	da5_2.mcd	: Overall Multiple Regression
+DA53	da5_3.mcd	: Individual Parameters
+DA54	da5_4.mcd	: Goodness of Fit
+DA55	da5_5.mcd	: Cross Validation and Predicti
+DA56	da5_6.mcd	: Outliers
+DA57	da5_7.mcd	: Multicollinearity
+DA58	da5_8.mcd	: Variable Selection
+DA59	da5_9.mcd	: Polynomial Regression
+DA60	da6_0.mcd	: Transformations and Nonlinear
+DA61	da6_1.mcd	: Data Transformations
+DA62	da6_2.mcd	: Intrinsically Linear Models
+DA63	da6_3.mcd	: Intrinsically Nonlinear Model
+DA64	da6_4.mcd	: Simple Logistic Regression
+DA70	da7_0.mcd	: Time Series and Data Smoothin
+DA71	da7_1.mcd	: Differencing
+DA72	da7_2.mcd	: Running Medians
+DA73	da7_3.mcd	: Ratio to Moving Average
+DA74	da7_4.mcd	: Exponential Smoothing
+DA80	da8_0.mcd	: Discriminant Analysis
+DA81	da8_1.mcd	: Discriminant Coefficients
+DA82	da8_2.mcd	: Classification
+APP1	append1.mcd	: Appendix: Using Matrices
+BIB	stat_bib.mcd	: Bibliography
+;-----------------------------------
+;Treasury
+;
+10i	10i.mcd	: Treasury Guide  to Solving
+1001i	1001i.mcd	: The root Function
+100101i	100101i.mcd	: Using the root Function
+100102i	100102i.mcd	: Making Good Guesses
+100103i	100103i.mcd	: TOL and root
+100104i	100104i.mcd	: How the root Function Works
+1002i	1002i.mcd	: Polynomial Root Finding
+100201i	100201i.mcd	: Polynomials
+100202i	100202i.mcd	: The polyroots Function
+100203i	100203i.mcd	: The idea Behind polyroots
+1003i	1003i.mcd	: Solve Blocks
+100301i	100301i.mcd	: Setting up Solve Blocks
+100302i	100302i.mcd	: Minimizing Error
+100303i	100303i.mcd	: TOL and Solve Blocks
+100304i	100304i.mcd	: Do's and Don'ts
+1004i	1004i.mcd	: Examples of Problem Solving
+100401i	100401i.mcd	: Example: Multiple Guesses
+100402i	100402i.mcd	: Example: Solving Matrix Equations
+100403i	100403i.mcd	: Example: Root Finding with Eigenvals
+100404i	100404i.mcd	: Example: Defining Inverse Functions
+100405i	100405i.mcd	: Example: Linear Systems
+100406i	100406i.mcd	: Example: Maxima and Minima
+100407i	100407i.mcd	: Example: Determining Roots of Small Functions
+100408i	100408i.mcd	: Example: Problem Solving Using Graphing
+07ii	07ii.mcd	: Treasury Guide to Programming 
+0701ii	0701ii.mcd	: What Is Programming?
+0702ii	0702ii.mcd	: Functions and Operators
+070201ii	070201ii.mcd	: Function Definitions
+070202ii	070202ii.mcd	: Recursively Defined Functions
+070203ii	070203ii.mcd	: Creating Operators
+0703ii	0703ii.mcd	: The Reference Operation
+0704ii	0704ii.mcd	: Programming within Mathcad
+070401ii	070401ii.mcd	: An Introduction
+070402ii	070402ii.mcd	: The Program Operator
+070403ii	070403ii.mcd	: Local Assignments
+070404ii	070404ii.mcd	: If and Otherwise
+070405ii	070405ii.mcd	: The for Loop
+070406ii	070406ii.mcd	: The while Loop
+070407ii	070407ii.mcd	: The Continue Operator
+070408ii	070408ii.mcd	: The Return Operator 
+070409ii	070409ii.mcd	: Debugging
+070410ii	070410ii.mcd	: Error Trapping
+070411ii	070411ii.mcd	: Error Messages
+070412ii	070412ii.mcd	: Programs and Symbolic Computation
+0705ii	0705ii.mcd	: Programming Outside of Mathcad
+070501ii	070501ii.mcd	: The Mechanism
+070502ii	070502ii.mcd	: Two Mathcad Models
+070503ii	070503ii.mcd	: Two New Mathcad Functions
+0706ii	0706ii.mcd	: Examples of Programming in Mathcad
+070601ii	070601ii.mcd	: Binary Expansions
+070602ii	070602ii.mcd	: The Greatest Common Divisor
+070603ii	070603ii.mcd	: Pi
+070604ii	070604ii.mcd	: The 3N + 1 Problem Revisited
+070605ii	070605ii.mcd	: A First Program
+070606ii	070606ii.mcd	: Some Interesting Functions & Operators
+070607ii	070607ii.mcd	: The Convex Hull
+070608ii	070608ii.mcd	: An Adaptive Quadrature Algorithm
+070609ii	070609ii.mcd	: Set Theory
+070610ii	070610ii.mcd	: More Boolean Operators
+070611ii	070611ii.mcd	: Periodic Extensions
+070612ii	070612ii.mcd	: Extracting Algorthmic Information
+070613ii	070613ii.mcd	: The Arithmetic of Time
+; skip files
+register	register.mcd	: Mathcad Registration
+support	support.mcd	: Mathcad Technical Support
+library	library.mcd	: MathSoft Web Library

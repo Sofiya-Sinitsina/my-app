@@ -1,0 +1,25 @@
+Clicking the right mouse button on a component will display a pop-up menu of commands specific to that component.
+You can open one of the last files you worked on by choosing it from the bottom of the file menu.
+ConnexScript supports multiple statements on a line when the statements are separated by a semicolon ( ; ).
+You can undo the last worksheet action by clicking the Undo menu item.
+When a worksheet is paused, hovering the mouse over the input and output ports will show the current values; double-click to display vector or matrix values.
+The ConnexScript for, while, or repeat-until statements can be used when iteration (looping) is needed in your program.
+You can undock a dockable window by double clicking its border.
+The Copy to Clipboard menu item will copy the graph component's current contents to the clipboard.
+You can hide the complexities of a system by drag-selecting a group of components, clicking the right mouse button, and choosing Collapse. 
+You can assign your own bitmaps to embedded worksheets. The bitmaps are saved as part of the system.
+You can visually monitor the execution of each component by selecting the Highlight Components menu item.
+Enter complex values in ConnexScript by appending an i or j to a constant value. For example x = 5.87i.
+Clicking on an empty part of the worksheet and dragging the mouse will form a rectangle for selecting components.
+You can only edit a MathConnex worksheet when the computation is stopped.  To stop a calculation click on the button with the red square on the toolbar.
+If you're running out of space on a worksheet, click on the Zoom Out button on the toolbar to get a wider view.
+When you save your own modules they will show up on the second tab in the MathConnex Explorer at the left of the MathConnex window.
+To view more cells in the Constant or Inspector component, double-click on the component and then enlarge it by dragging the lower right corner.
+To stop a calculation automatically wire in a stoplight as the last component in the calculation flow.
+If you know JScript or VBScript you can add scripted OLE 2 components to your MathConnex worksheets; choose Scripted Object on the Insert menu.
+To insert components into your worksheet, DRAG them from the component palettes.
+The Axum, Excel and MATLAB components will work only if you have these applications installed on your machine.
+To edit a Mathcad component in its own window, right-click on the component in your worksheet and choose View As Icon, then double-click to launch a Mathcad window.
+To use the Graph component, feed it either one column of data (the y values) or a two-column matrix (x values and y values).
+To edit a ConnexScript component, double click on it to bring up the script editor; when you're done click the Apply button and close the window.
+To Edit a Mathcad or Excel component, double click on it; the Mathcad or Excel application will activate in place; when you're through, click outside the component.

@@ -1,0 +1,226 @@
+:Base MATHCONX.HLP
+:Title MathConnex
+1 Introduction
+2 What is MathConnex?=What_is_Visual_Science
+2 How would I use MathConnex?=How_Would_I_Use_Visual_Science_
+1 MathConnex workspace
+2 Overview=Visual_Science_Workspace
+2 MathConnex menus=Visual_Science_Menus
+2 Toolbar=Toolbar
+2 Worksheet=Worksheet
+2 Status bar=Status_Bar
+2 Component Palettes=The_Component_Palette
+2 MathConnex Explorer
+3 Explorer=Explorer
+3 Project tab=Explorer_Project_tab
+3 Modules tab=Explorer_Modules_tab
+3 Components tab=Explorer_Components_tab
+1 Systems, projects, and modules
+2 What is a MathConnex project?=What_is_a_Visual_Science_project_
+2 Designing a system
+3 Drag and drop
+4 Drag and drop components=Drag_and_drop_components
+4 Moving a component=Moving_a_component
+3 Wiring
+4 Wiring components=Wiring_components
+4 Adding input or output ports=Adding_input_or_output_ports
+4 Disconnecting a wire=Disconnecting_a_wire
+4 Flipping port direction=Flipping_port_direction
+4 Moving a wire from one input port to another=Moving_a_wire_from_one_input_port_to_another
+4 Multiple wires on a single output port=Multiple_wires_on_a_single_output_port
+2 Running a system
+3 Using Run, Stop, Pause, and Step=Using_Run__Stop__Pause__and_Step
+3 Parallel processing=Parallel_processing
+2 Analyzing a system
+3 Breakpoints
+4 Breakpoints=Breakpoints
+4 Setting breakpoints=Setting_breakpoints
+3 Pause/Stop component
+4 Pause/Stop component=Pause_Stop_component
+4 Beep when active=Beep_when_active
+4 Using the Pause-Stop component=Using_the_Pause_Stop_component
+3 Run to this Point
+4 Run to this Point=Run_to_this_Point
+4 Using Run to this Point=Using_Run_to_this_Point
+3 Wire Breaker component
+4 Wire Breaker component=Wire_Breaker_component
+4 Using the Wire Breaker=Using_the_Wire_Breaker
+3 Magnifying Glass
+4 Magnifying Glass=Magnifying_Glass
+4 Viewing input data=Viewing_input_data
+2 Creating and opening a system
+3 Creating a new project=Creating_a_new_project
+3 Opening an existing project=Opening_an_existing_project
+3 Collapsing part of a system=collapsing_part_of_a_system
+2 Saving
+3 Saving a component as a module=Saving_a_component_as_a_module
+3 Saving a project=Saving_a_project
+3 Saving a system as a module=Saving_a_system_as_a_module
+2 Printing
+3 Printing a system=Printing_a_system
+3 Print preview=Print_preview
+2 Sharing projects
+3 Embedding an existing project into Microsoft Word=Embedding_an_existing_project_into_Microsoft_Word
+3 Embedding a project into Microsoft Word=Embedding_a_project_into_Microsoft_Word
+3 Sending a project via e-mail=Sending_a_project_via_e_mail
+2 Customizing your system
+3 Inserting OLE objects=Inserting_OLE_objects
+3 Labeling components=Labeling_components
+3 Zoom In & Zoom Out=Zoom_In___Zoom_Out
+3 Creating a subsystem=collapsing_part_of_a_system
+3 Showing labels=Showing_labels
+3 Viewing a component as an icon=viewing_a_component_as_an_icon
+3 Viewing a component as an object=viewing_a_component_as_an_object
+3 Saving a component as a module=Saving_a_component_as_a_module
+3 Adding text=adding_text_to_a_visual_science_project
+2 Modules
+3 What is a module?=What_is_a_module_
+3 Saving a component as a module=Saving_a_component_as_a_module
+3 Saving a system as a module=Saving_a_system_as_a_module
+3 Drag and drop modules=Drag_and_drop_modules
+3 Deleting a module=Deleting_a_module
+3 Exporting modules=Exporting_modules
+3 Importing modules=Importing_modules
+3 Moving a module within the Explorer=Moving_a_module_within_the_Explorer
+3 Renaming a module=Renaming_item
+3 Module folders
+4 Creating a module folder=Creating_item_folder
+4 Deleting a module folder=Deleting_a_module_folder
+1 Components
+2 Working with components
+3 Component Palettes=Component_Palette
+3 Inserting a component=Drag_and_drop_components
+3 Wiring components together=Wiring_components
+3 Labeling components=Labeling_components
+3 Resizing a component=resizing_a_component
+3 Viewing a component as an icon=viewing_a_component_as_an_icon
+3 Viewing a component as an object=viewing_a_component_as_an_object
+3 Cut, copy, and paste
+4 Cutting a component=Cutting_components
+4 Copying a component=Copying_a_component
+4 Copying an entire system to the Clipboard=Copying_an_entire_system_to_the_clipboard
+4 Pasting components=Pasting_components
+3 Selecting components
+4 Selecting a single component=Selecting_a_single_component
+4 Selecting multiple components=Selecting_multiple_components
+2 Axum component
+3 Creating graphs using Axum=axum_component
+2 Conditional component
+3 Inserting the Conditional component=Conditional_component
+3 ConnexScript Editor
+4 Using the ConnexScript Editor=Using_the_ConnexScript_Editor
+4 Setting fonts in the ConnexScript Editor=Setting_fonts_in_the_ConnexScript_Component_Editor
+3 Writing conditional statements=conditional_tab
+2 ConnexScript component
+3 ConnexScript component=connexscript_component
+3 ConnexScript language=The_Language
+3 Entering input variables=Entering_connexscript_input_variables
+3 Entering output variables=Entering_connexscript_output_variables
+3 ConnexScript Editor
+4 Using the Script Editor=Using_the_connexscript_Editor
+4 Setting fonts in the Script Editor=Setting_fonts_in_the_ConnexScript_Component_Editor
+2 Excel component
+3 Inserting the Excel component=Excel_component
+3 Editing the Excel component=Editing_an_excel_component
+2 File Read/Write component
+3 Inserting the File Read/Write component=file_read_write_component
+3 Reading from a file=Read_from_a_File
+3 Writing to a file=Write_to_a_File
+2 Global Variable component
+3 Inserting the Global Variable component=global_variable_component
+3 Creating and using global variables=defining_or_using_a_global_variable
+2 Graph component
+3 Graph component=Graph_component
+3 Formatting a graph
+4 Axes=Creating_a_graph___Axes
+4 Labels=Creating_a_graph___Labels
+4 Plot=Creating_a_graph
+3 Copying a graph to the Clipboard=Copying_a_graph_to_the_Clipboard
+2 Initialize component
+3 Inserting the Initialize component=initialize_component
+2 Input component
+3 Inserting the Input component=Input_component
+3 Typing data in directly=Input_typing
+3 Importing data from a file=Input_import
+3 Pasting data from the Clipboard=Input_paste
+3 Editing the Input component=Editing_the_Input_component
+2 Inspector component
+3 Inserting the Inspector component=Inspector_component
+3 Exporting data=Inspector_export
+3 Accumulating data=Inspector_accumulate
+3 Controlling the display of values in the Inspector component=Inspector_component
+2 Mathcad component
+3 Inserting the Mathcad component=Mathcad_component
+3 Editing the Mathcad component=editing_a_mathcad_component
+2 MATLAB component
+3 Inserting the MATLAB component=MATLAB_component
+3 Editing the MATLAB component=Editing_the_MATLAB_component
+3 Script Editor
+4 Using the Script Editor=Using_the_ConnexScript_Editor
+4 Setting fonts in the Script Editor=Setting_fonts_in_the_ConnexScript_Component_Editor
+2 Ramp component
+3 Inserting the Ramp component=ramp_component
+2 Scripted Object component
+3 About the Scripted Object component=scripted_object_component
+3 Inserting the Scripted Object component=inserting_the_scripted_object_component
+3 Scripting the object=scripting_an_object
+3 Scripted Object component model=scripted_object_model
+3 Script Editor
+4 Using the Script Editor=Using_the_connexscript_Editor
+4 Setting fonts in the Script Editor=Setting_fonts_in_the_connexscript_Component_Editor
+2 Stop/Pause component
+3 Inserting the Stop/Pause component=Pause_Stop_component
+3 Stopping vs. pausing using the Stop/Pause component=Using_the_Pause_Stop_component
+3 Beep When Active=Beep_When_Active
+2 Text component
+3 About the Text component=text_component
+3 Using the Text component to add text to a project=adding_text_to_a_visual_science_project
+2 Wire Breaker component
+3 About the Wire Breaker component=Wire_Breaker_component
+3 Using the Wire Breaker=Using_the_Wire_Breaker
+1 ConnexScript
+2 About ConnexScript
+3 ConnexScript language=The_Language
+3 Efficient programming=Efficient_Programming
+3 Expressions and operators=Expressions_and_Operators
+2 Language syntax
+3 Data types=Data_Types
+3 Typographical conventions=Typographical_Conventions
+3 Line continuation=Line_Continuation
+3 Comments=Comments
+3 Reserved words=RTF_TOPIC_831734123
+3 Optional parameters=Optional_Parameters
+2 Variables
+3 Creating variables=Creating_Variables
+3 Creating a vector or matrix=Creating_a_Vector_or_Matrix
+3 Interrogating variables=Interrogating_Variables
+2 Functions and operators
+3 List of built-in functions=Functions
+3 Arithmetic array operators=Overview____Arithmetic_array_operators
+3 Basic math functions=Overview____Basic_math_functions
+3 Complex math functions=Overview____Complex_math_functions
+3 Matrix functions=Overview____Matrix_operations_functions
+3 Trigonometric functions=Overview___Trigonometric_functions
+3 Hyperbolic trigonometric functions=Overview___Hyperbolic_trigonometric_functions
+3 Inverse trigonometric functions=Overview___Inverse_trigonometric_functions
+3 Operators=Operators
+3 Call by reference=Call_by_Reference
+3 Creating your own ConnexScript functions=Creating_Functions
+3 Environment=Environment
+3 Function call statements=Function_Call_Statements
+3 Optional parameters=Optional_Parameters
+3 Placeholder parameters=Placeholder_Parameters
+3 Returning values=Returning_Values
+2 Statements
+3 Multiple statements on a line=Multiple_Statements_on_a_Line
+3 Function call statements=Function_Call_Statements
+3 If statement=If_Statements
+3 For statement=For_Statements
+3 Repeat statement=Repeat_Statements
+3 While statement=While_Statements
+3 Break statement=Break_statement
+2 Indexing
+3 Creating indices=Creating_Indices
+3 Creating a vector or matrix=Creating_a_Vector_or_Matrix
+2 Returning values=Returning_Values
+2 Call by reference=Call_by_Reference

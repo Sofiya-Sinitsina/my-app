@@ -1,0 +1,49 @@
+To see the value of any numerical answer to full precision, click on the answer, press [Ctrl][Shift]N and look at the status line.
+For context-sensitive help on any function, click on the function name and press [F1].
+Mathcad indexes vectors starting with 0 by default.  To start indexing at 1, go to Math/Option/Built-in Variables and change ORIGIN to 1.
+To evaluate an expression numerically, use the = key.  To get a symbolic answer, press [Ctrl][Period] to get the --> operator.
+To apply a function or operation to a vector or matrix of values, use [Ctrl][-].  This puts the vectorize arrow over your expression.
+In Mathcad 7 you don't need to specify a range to plot a function.  Just type the function using any unassigned variable, click on the xy plot button in the graphing palette, then click outside the plot.  Mathcad uses -10 to 10 as the default range for the variable.
+Press [Space] to enlarge the selection in an equation.
+To move down from an exponent press [Space] or the right arrow.
+To get context sensitive help on menus, press [Shift][F1], then click on the menu item.  Press [Shift][F1] to leave context sensitive help.
+To select a string variable, click in the string and use the right arrow key to move the vertical selection cursor just to the right of the last pair of quotes.
+When you type a word and press [Space] Mathcad starts a text region for you.
+You can separate overlapping regions by choosing Separate Regions on the Format menu.
+To move out of the denominator of a fraction, press [Space].
+For help on an error message, press [F1] while the message is displayed.
+To undo a sequence of editing changes, press [Alt][Backspace].  Note that this works only while you're still editing the expression, before you have clicked away.
+Why a raven is like a writing desk? (Lewis Carroll)
+To shift the insertion bar from one side of a selected expression to the other, press [Insert].
+To evaluate a derivative symbolically, fill in the derivative operator and then evaluate it symbolically.  Don't choose Variable/Differentiate from the Symbolics Menu, since this will have the effect of differentiating your function twice.
+When editing math expressions don't forget to check the status messages at the bottom of the screen for helpful suggestions.
+To set up an equation for symbolic solution, use [Ctrl]=.  This inserts the bold (boolean) equals sign.
+You shouldn't stand up in a canoe.
+You can turn off these tips by unchecking the Show Tips at Startup box.
+You can display any matrix as a grayscale image by typing its name and choosing Picture from the Insert menu. Since pixel values run from 0 to 255 you may want to multiply your matrix by a scale factor.
+To get to the MathSoft Collaboratory, choose Collaboratory on the File menu.  Remember that you can upload your current file or a text message without leaving Mathcad.
+Mathcad has two kinds of subscripts.  To identify the array element x sub 3, type x[3.  (This will be the fourth element if you're using the default origin of 0).  To subscript a variable that isn't an array, use a period instead of [.  For example x.init will give you the variable x sub init.
+To make a scatter plot of two-dimensional data stored in an array D, plot the first column of D against the second column, change the trace type to points and pick a symbol like x's.  Use [Ctrl]6 to get the column operator, which looks like a superscript <>.  Remember that the first column is usually column 0.
+To change the units in an answer, click once on the answer, click on the placeholder that appears to the right of the answer, and then type the name of the unit you want to use.  When you click away, Mathcad will convert the answer to your chosen units.
+Mathcad's default unit for angle measure is radians. You don't have to type this unit. If you type sin(3) Mathcad assumes you're using radians.  To find the sine of 3 degrees, type sin(3deg)=.  To turn an answer in radians into degrees, type deg in the placeholder to the right of the answer.
+To plot a horizontal line simply enter a constant value in the vertical axis placeholder on an x-y plot and enter any variable name not already in use in the horizontal axis placeholder.
+Scalar and vector answers can be copied and pasted just like any other expression.  Just select the result and choose Copy or press [Ctrl]c.
+Can't remember the abbreviation for a particular unit?  Look in the Insert/Unit dialog.
+The Reference feature allows you to access functions and variables defined in worksheets other than the current one.  Click in the current worksheet and choose Insert/Reference. You can type in the path and filename you want to reference or browse to it.  The contents of that worksheet will now be used at the point where you inserted the reference.
+Two wrongs do not make a right . . . but three do.
+When you animate a plot it's a good idea to fix the axis limits by entering values in the four axes limit placeholders.  This prevents the plot from rescaling the axes during the animation.  You can fix axes limits for surface and 3D parametric plots in the Axes tab of the Format dialog.
+Always keep a litter bag in your car.
+To play an animation that is embedded in a Mathcad document just click on it. Use the scroll bar to pause it so you can replay it more slowly.
+One answer to Lewis Carroll's riddle: One is a pest to wrens, the other a rest for pens.
+When you're plotting quantities that have units, you'll get correctly scaled axes if you divide each axis expression by its units.  For example, if you're plotting distance in meters vs. time in seconds and you're using SI units, divide the y-axis expression by m and the x-axis expression by s.
+Variables defined inside a Mathcad program are local - their values are known only inside the program.  But the program knows the values of any variables you have defined anywhere above the program in your worksheet.
+Mathcad's programming language doesn't keep track of units inside looping constructs, so it's a good idea not to use units within a program.
+When you use a range variable to display a vector of quantities with units as an output table you'll find that the unit is repeated on each line of the table.  If you want the units displayed just once, divide your output expression by its units.  For example, if your vector is A, in feet, and your range variable is i, you could type A[i [Space] /ft=.
+If you want to keep a particular definition from calculating, click in the definition and choose Properties from the Format menu.  Then check Disable Evaluation in the Calculation tab of the Properties dialog.  A small box appears to the right of the equation to indicate that it has been turned off.
+There are three different "equals" signs in Mathcad.  Type = when you want to see a numerical answer.  Type : to define a variable; Mathcad puts in its definition symbol, which looks like :=.  To state that two quantities are equal use [Ctrl]= which inserts a bold equals sign.  Use this bold equals in conditional tests and in equations you want to solve.
+If you need to do temperature conversions between Fahrenheit and Celsius, define these simple conversion functions:  F_to_C(x) := (5/9)*(x - 32)  and  C_to_F(x) := 32 + (9/5)*x
+To integrate the data set y made by sampling at irregularly spaced time points x, use interpolation:  Define f(t) := linterp(x,y,t) and then use the numerical integration operator to integrate f from the smallest time value in x to the largest.
+When you use a solve block to solve a system of equations, the variables you're solving for need to have the same units.  If you want to work with different units, say kilograms and seconds, divide out units to express your system in a dimensionless form.
+To make a dataset part of your worksheet, insert the Input Table component, right-mouse-click to bring up the context options, and choose Import.  Your data will be imported into a spreadsheet display and saved with the worksheet.
+If you want select a group of regions to move or copy,  but want to deselect one of them, use shift click on an individual region, to deselect it from the group.
+If you want to print out these tips, you can find the file in your Mathcad directory. It is mtips.txt. Be careful not to change anything in the file.

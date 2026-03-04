@@ -1,0 +1,377 @@
+.MCAD 304020000 1 74 2136 2136
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,19
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Filename: Arith.PAL}}
+.TXT 3 0 2 0 0
+Cg a70.000000,70.000000,30
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Palette:    Arithmetic Palette}}
+.EQN 6 5 2102 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@J"!(9cAQ)1"^It!!3D!Q!3AQ>{5Z(N!Q!*AQ)1%dJ"!(9cAQ)1"^It!!3D!Q!3AQIq5Z(N!Q!*AQ)1".It!"(N#U"<$2It!!;T!Q!'AQ)1$2J"!(9cAQ1A".It!!3D!Q!3AQIq5Z(N!Q!$AQ1A"^It!"(N"3"<'hIt!"(N"3"<'hIt!"(N"3"<'hIt!"(N!Q"<+@It!(:/AQ)1
+5\Cd
+
+.ATT
+.STATUS Factorial  !
+.PASTEKEY 33
+.ATT_END
+.EQN 0 3 2103 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0!Q"<+@It!(:/AQ4'5Z@~!Q!?AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Imaginary Unit  i
+.PASTEKEY -305
+.ATT_END
+.EQN 0 3 2104 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!71BAaDG3m6s"C6k6k6s"K6k!!>{5Y%1!Q6n8/&S!Y6x!'HW"C6s8787"C87$lG:!'HW"C6s8787"C87"K!.!'HW
+!!"K8787!)87)R9X!(9[8/#e!96p!(9[8/&Y"3"<"k6l(/$'!q"<"k6m2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Range Variable  ;
+.PASTEKEY 59
+.ATT_END
+.EQN 0 3 2105 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!DG3l5@5@5@5@":":4'!!DG3l5@5@5@5@":":4'!!DG3l5@5@5@5@":":4'!!>{5Y2Z!8!#"3$~!A!,!(9W59']!94(59&K#5"15@595@595@5@59!!#5"15@5@":4.5@5@59!!"S"<
+!X4)4'/t!A!*!(9U59#l!x4)!!9Q5Y*J!H!&59&K#5"15@5@":4.5@5@59!!#5"15@595@595@5@59!!!q"<"j4)!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!Q
+
+.ATT
+.STATUS Subscript  [
+.PASTEKEY 91
+.ATT_END
+.EQN 0 3 2106 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ>{5YCd!Q!<AQ)1#`I|!(9]AQ)1%dIt!!Kt"s"<#0It!"@~!Q!0AR)15YCd!Q!'AQ)1"^It!!3D!Q!0AR)15YCd!Q!*AQ)1!\It!!;T!Q!0AQIq5YCd!Q!-AQ)1#0It!!Kt$7"<#0It!!;T!Q!$AQ)1"^It!!Kt$7"<#0It!!3D!Q!*AQ)1".It!!Kt"s"<#0It!"@~!Q!0AQ>{5YCd!Q!<AQ)1
+#`I|!(9]AQ)1%dIt!!Kt!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Absolute Value  |
+.PASTEKEY 124
+.ATT_END
+.EQN 3 -12 2107 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K#5"15@5@":":4.5@59!!#5"15@5@":":4.5@59!!#5"15@5@":":4.5@59!!#5"15@5@":":4.5@59!!#5"15@5@":":4.5@59!!#5"15@5@":!(4.5@59!!
+#5"15@5@":"3":5@59!!"S"<!X4("32Z!A!*!(9T59#l"*4)!!9Q5Y*J!14-59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!Q
+
+.ATT
+.STATUS Natural Logarithm
+.PASTEKEY -227 32 -216 108 110 -222
+.ATT_END
+.EQN 0 3 2108 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K"s"<!X4(!!#l!x4)!!DG3l5@4.595@5@5@4'!!9Q5Y'd!8!(59&K"s"<!H4(4'&K!x4)!!DG3l5@4.595@5@5@4'!!DG3l5@4.595@5@5@4'!!DG3l5@59!(
+4.4.5@4'!!DG3l5@5@5@4.4.5@4'!!9Q5Y2Z!1!$59&K"S"<"*4(!!*J!A!.!'HF5@5@5@":":5@!!!.!'HF5@5@5@":":5@!!!&!(9[59&K!q"<"j4)!!.[5Y=P!A!Q
+
+.ATT
+.STATUS Exponential
+.PASTEKEY 101 94
+.ATT_END
+.EQN 0 3 2109 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K#5"15@4.5@4.5@5@59!!#5"15@595@":5@5@59!!"S"<!X4)"3/t!A!*!(9T59$w"*4)!!9Q5Y*J!A4,59&K#5"15@595@":5@5@59!!#5"15@4.5@4.5@4.
+59!!"S"<"J4("3$~!A!.!'HF5@5@5@!!595@!!!*!(9Y59#l!84)!!>{5Y5@!8!""3$~!A!*!(9Y59#l!84)!!.[5Y=P!A!&!(9[59&K!q"<"j4)!$!Q
+
+.ATT
+.STATUS Inverse
+.PASTEKEY 94 45 49
+.ATT_END
+.EQN 0 3 2110 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K#5"15@595@595@5@59!!#5"15@5@":4.5@5@59!!"S"<!X4)4'/t!A!*!(9U59#l!x4)!!9Q5Y*J!H!&59&K#5"15@5@":4.5@5@59!!#5"15@595@59595@
+59!!"S"<":4("3'd!A!*!(9X59#l!H4)!!9Q5Y5@!14)59&K"S"<"*4)4''d!A!.!'HF5@5@5@4.595@!!!&!(9[59&K!q"<"j4)!!.[5Y=P!A!Q
+
+.ATT
+.STATUS Raise to Power  ^
+.PASTEKEY 94
+.ATT_END
+.EQN 0 3 2111 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!*!(9U59$w!x4)!!9Q5Y-0!1!&59&K"S"<!h4(!!/t!A!,!(9T59$w!1!&59&K"S"<!h4(4'/t!A!*!(9U59$w!x4)!!9Q5Y-0!8!&59&K"S"<!h4(4'/t!A!.!'HF4.4.
+4.5@5@":!!!.!'HF4.4.4.5@5@":!!!.!'HF4.4.4'!!!!":!!!,!(9R59$w!A4-59&K"s"<!84)4'%0"*4)!!.[5Y=P!A!&!(9[59&K!q"<"j4)!$!Q
+
+.ATT
+.STATUS Nth Root  Ctrl+\
+.PASTEKEY -298
+.ATT_END
+.EQN 3 -12 2112 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd"3"<'hIz!!Cd"s"<'8It!!;T!Q!*AQ4'5\#$!Q!*AR)15YCd!Q!'AQ9Q"^Iw!!+4!Q!*AR4'5YCd!Q!$AQ)1"^It!!+4!Q!'AQ1A"^J*!(9]AQ)1!\It!!;T!Q!$AQ)1"^It!!;T$w"<#0It!!+4!Q!*AQ)1!\It!!;T!Q!*AR4'5YCd!Q!$AQ)1"^It!!+4!Q!*AQ)1"^J*!(9]AQ)1!\It!!;T!Q!$AQ)1".Iw
+!!;T$7"<#0It!!3D"S!*AQ1A!\It!!;T"3"<#0It!#FJ"3"<#0It!#FJ"3"<#0It!#FJ!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Logarithm
+.PASTEKEY -227 32 -216 108 111 103 -222
+.ATT_END
+.EQN 0 3 2113 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@I|!(9fAQ)1#0It!"0^#U"<$bIt!!;T!Q!$AQ)1$2I|!(9fAQ)1"^It!"8n"s"<$bIt!!;T!Q!9AQ>{5Z0^!Q!*AQ)1%4I|!(9iAQ)1".It!"8n"3"<$2J+!"(N!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Pi  Ctrl+P
+.PASTEKEY 112 -9
+.ATT_END
+.EQN 0 3 2114 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!7.\Iq4'5Y=a!7.\Iq4'5Y=a!7.\IqDG3m878/8787"K877rIqDG3m878/8787"K877rIqDG3m876s87876s877rIqDG3m876s87876s877sAaDG3m87"K87878/876k!!>{5Y'u!16o8/%)!i6x!'HW8/878787
+6s87$}An!(9S8/#m!i6l6k*[!9!.!'HW8/8787876s87$(9^!'HW8/8787876s87!)6x!'HW8/8787876s87#S!.!'HW87"K8787"K87(1!.!'HW87"K8787"K872),$!'HW876s878/8787!a6x!'HW876s878/8787;%!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Parentheses  '
+.PASTEKEY -227
+.ATT_END
+.EQN 0 3 2115 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=P!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!&!(9[59&K#5"15@595@595@5@59!!#5"15@5@":4.5@5@59!!"S"<!X4)4'/t!A!*!(9U59#l!x4)!!9Q5Y*J!H!&59&K#5"15@5@":4.5@5@59!!#5"15@595@594'!(
+59!!"S"<":4("3'd!A!*!(9X59$w!H4)!!9Q5Y8&!14(59&K#5"15@5@5@5@4.4.59!!"S"<":4(!!'d!A!&!(9[59&K!q"<"j4)!!.[5Y=P!A!Q
+
+.ATT
+.STATUS Square
+.PASTEKEY 94 50
+.ATT_END
+.EQN 0 3 2116 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@Ix!(9cAQ)1'hIx!(9`AQ1A'hIx!(9`AQ1A'hIx!(9]AQ9Q'hIx!(9cAQ)1'hIx!(9cAQ)1'hIx!(9cAQ)1'hIx!(9cAQ)1'hI|!(9cAQ)1$bIt!!Kt"s"<$2It!"0^!Q!0AQ4'5Z(N%Y!0AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Square Root  \
+.PASTEKEY 92
+.ATT_END
+.EQN 3 -12 2117 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd$w"<"^Iw!!3D"#!$AQ)1!\It!!;T!Q!*AR4'5Y;T!Q!'AQ)1".Iw!!+4!Q!*AQ)1"^J*!(9ZAQ)1".It!!;T!Q!$AQ)1"^It!!;T$7"<"^It!!;T#%!$AQ)1"^It!!;T$7"<"^It!"(N!Q!$AQ)1"^It!!;T$w"<"^It!!3D!Q!*AQ)1!\Iw!!3D!Q!*AR)15Y3D"S!'AQ9Q".It!!+4
+"#!-AQ4'5Y;T!Q!QAQ4'5Y;T!Q!QAQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Tangent
+.PASTEKEY -227 32 -216 116 97 110 -222
+.ATT_END
+.EQN 0 3 2118 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z@~!Q!?AQ4'5Z@~!Q!?AQ4'5Z@~!Q!?AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5[%h!Q!9AQ4'5[%h!Q!9AQ4'5[-x!Q!6AQ4'5[-x!Q!6AQ4'5Z8n$'!3AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Seven
+.PASTEKEY 55
+.ATT_END
+.EQN 0 3 2119 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n#%!9AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ>{5Z0^!Q!-AQ)1$bIx!(9iAQAa%4I|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ>{5Z0^!Q!-AQ)1$bIx!(9iAQAa%4It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Eight
+.PASTEKEY 56
+.ATT_END
+.EQN 0 3 2120 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n"S!<AQ>{5Z0^!Q!*AQ)1%4Ix!(9uAQ)1$bIx!(9uAQ)1$bI|!(9iAQ9Q!\It!"0^"s"<$bIt!!;T"#!6AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ4'5Z8n#%!9AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Nine
+.PASTEKEY 57
+.ATT_END
+.EQN 0 3 2121 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@Ix!(9lAQ)1&6It!(:/AQ)15\Cd"3"<#`J.!"(N!Q"<+@It!(:/AQ4'5Z@~!Q!?AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Division  /
+.PASTEKEY 47
+.ATT_END
+.EQN 3 -12 2122 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd#U"<"^Iz!!;T"S!*AQ9Q".J.!(9WAQ)1"^It!!+4!Q!*AQ)1!\It!!;T!Q!$AR)15Y3D!Q!0AQ)1"^It!!Kt!Q!$AR)15Y3D!Q!0AQ)1"^It!!3D"S!'AR)15Y3D!Q!0AQ)1"^It!!+4!Q!0AR>{5Y3D!Q!*AQ)1!\It!!;T!Q!$AQ)1"^It!!+4#U"<"^Iz!!;T"S!*AQ9Q".It!(:/
+AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Cosine
+.PASTEKEY -227 32 -216 99 111 115 -222
+.ATT_END
+.EQN 0 3 2123 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5[%h!Q!9AQ4'5[%h!Q!9AQ4'5Z0^$'!6AQ>{5Z8n!Q!'AQ)1%4I|!(9iAQ)1".It!"8n"s"<%dIt!!+4!Q!9AQ>{5Z@~!Q!$AQ)1%4Ix!(9oAQ1A%4Ix!(9oAQ1A%4Ix!(9rAQ)1%4It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Four
+.PASTEKEY 52
+.ATT_END
+.EQN 0 3 2124 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n#%!9AQ>{5Z0^!Q!-AQ)1$bIx!(9uAQ)1$bIx!(9uAQ)1$bI|!(9fAQ)1#0It!"0^"3"<$bJ"!"8n"3"<$bIt!#-x"3"<%4It!#%h"3"<%4It!#%h"3"<%4J"!"0^!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Five
+.PASTEKEY 53
+.ATT_END
+.EQN 0 3 2125 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n#%!9AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ>{5Z0^"#!*AQ)1$bI|!(9fAQ)1!\Iz!"8n"3"<$bIt!#-x"3"<$bIt!#-x"s"<$bIt!!Cd!Q!6AQ4'5Z8n#%!9AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Six
+.PASTEKEY 54
+.ATT_END
+.EQN 0 3 2126 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@I|!(9cAQ)1#`It!"0^"s"<$bIt!!;T!Q!9AQ>{5Z8n!Q!$AQ)1%dIx!(9lAQ)1&6I|!(9iAQ)1!\It!"@~"s"<$bIt!!;T!Q!9AQ>{5Z(N!Q!0AQ)1$bIt!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Multiplication  *
+.PASTEKEY 42
+.ATT_END
+.EQN 3 -12 2127 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd$7"<#0Iz!!3D!Q!'AQ)1"^It!!;T$w"<"^It!!;T!Q!$AQ)1".It!!;T!Q!*AR)15Z0^!Q!$AQ)1".It!!;T!Q!*AR)15YCd"S!'AQ)1".It!!;T!Q!*AR)15Y;T!Q!0AQ)1".It!!;T!Q!*AR4'5Y;T!Q!*AQ)1!\It!!3D"#!'AQ)1"^J&!(9]AQ9Q".It!!3D!Q!$AQ1A#0It!(:/
+AQ)15\Cd"3"<%dIt!"I0!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Sine
+.PASTEKEY -227 32 -216 115 105 110 -222
+.ATT_END
+.EQN 0 3 2128 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ4'5ZI0!Q!<AQ>{5Z8n!Q!$AQ)1%dIx!(9lAQ1A%dIx!(9oAQ)1%dIt!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS One
+.PASTEKEY 49
+.ATT_END
+.EQN 0 3 2129 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z0^$'!6AQ4'5Z8n!Q!BAQ4'5Z@~!Q!?AQ4'5ZI0!Q!<AQ4'5[%h!Q!9AQ4'5[-x!Q!6AQ4'5[-x!Q!6AQ4'5[-x!Q!6AQ>{5Z0^!Q!-AQ)1$bIx!(9iAQAa%4It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Two
+.PASTEKEY 50
+.ATT_END
+.EQN 0 3 2130 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n#%!9AQ>{5Z0^!Q!-AQ)1$bIx!(9uAQ)1$bIx!(9uAQ)1$bIx!(9uAQ)1$bIx!(9lAQ9Q%4Ix!(9uAQ)1$bIx!(9uAQ)1$bI|!(9fAQ)1#0It!"0^"3"<%4I}!"8n!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Three
+.PASTEKEY 51
+.ATT_END
+.EQN 0 3 2131 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<#`J.!"(N"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0"3"<%dIt!"I0!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Addition  +
+.PASTEKEY 43
+.ATT_END
+.EQN 3 -12 2132 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!*!(9S8/#e";6m!!DG3m87!)!!!!"K876k!!.[5Y=a!A!&!(9[8/&K#5"1876k6k!!!)878/!!"S"<!I6l!!5Q!A!&!(9[8/&K!q"<
+"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Assign Value  :
+.PASTEKEY 58
+.ATT_END
+.EQN 0 3 2133 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@Ix!(9lAQ1A%dIx!(9lAQ1A%dIt!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Decimal Point
+.PASTEKEY 46
+.ATT_END
+.EQN 0 3 2134 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5Z8n#%!9AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"s"<$bIt!!Cd!Q!6AQ>{5Z0^!Q!-AQ)1$bI|!(9fAQ)1#0It!"0^"3"<%4I}!"8n!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AT!Q
+
+.ATT
+.STATUS Zero
+.PASTEKEY 48
+.ATT_END
+.EQN 0 3 2135 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@Ix!(9`AR>{$2It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@JC
+
+.ATT
+.STATUS Subtraction  -
+.PASTEKEY 45
+.ATT_END
+.EQN 0 3 2136 0 0
+{   20    20 0 0}{61}
+19778 1256 0 0 56
+40 20 20 1 24 0 1200 0 0 0 0
+!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ4'5YKt%)!6AQ)15\Cd!Q"<+@Ix!(9`AR6k$bIt!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd!Q"<+@It!(:/AQ)15\Cd
+
+.ATT
+.STATUS Evaluate Expression  =
+.PASTEKEY 61
+.ATT_END

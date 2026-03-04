@@ -1,0 +1,196 @@
+.MCAD 304020000 1 74 145 145
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,19
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Filename: GRAPH.PAL}}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,15
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Palette: Graphs}}
+.TXT 6 0 19 0 0
+Cg a73.000000,73.000000,8
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Position}}
+.TXT 0 9 3 0 0
+Cg a70.000000,70.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Bitmap}}
+.TXT 0 11 5 0 0
+Cg a55.000000,55.000000,11
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Description}}
+.TXT 0 17 6 0 0
+Cg a37.000000,37.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 Keycode}}
+.EQN 4 -28 51 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9!"#uDG3m876s8/87"K6s7-&K>{5Y%1"C!""C#i!5!,!(9R8/#q"K6l%)#e"s"<!96l"C%q";6m&kDG5Y%)!16lC%5Q!5+v+uDG3m6s8w8787878G6s6kDG3m6s8w878788876m&kDG3m6s8;8787:{876k!aDG
+3m!)8;878G878788"CDG3m6s87C.8787876k!ADG3m6s87C-8787877Q+uDG3m6s8G8w878{878G"CDG3m!*878w87C-C-7-&KDG3m6s878;8;878w7/AaDG3m6s8787Cm878;6k!!4'5Y%1!16u8/>{5Y%)!16s8/$+!7G6!(9R8/#m"K6m!!4'5Y=a!2&L%<!Q
+
+.ATT
+.STATUS X-Y Plot  Shift+2
+.PASTEKEY 64
+.ATT_END
+.EQN 2 -8 67 0 0
+1
+.TXT 0 19 8 0 0
+Cg a62.000000,62.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 xy plot}}
+.EQN 0 18 130 0 0
+64
+.EQN 3 -29 141 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!9Q5Y-0!86p59&K#5"15B5@5@8&5@59"3!!#5"15B5@5@8&5@4'"3!!#5"15@:j5@8&5@!!59!!#5"15@:j4'!!"C!(59!!#5"15@5`!09P!!":59!!#5"15@5Y#d9PG-8&59!!#5"15@4'Ip9PL7":59!!#5"15@46<6;.
+<6":59!!#5"1876s;.;.;-"K8/!!#5"15@45KN9PKN":59!!#5"15@45LV9PLP":59!!#5"15@4'Ip9PLG":59!!#5"15@59#T9PIq:j59!!#5"15@5@!/9?!(:j59!!#5"15@5@4'!!":5`59!!#5"15@5@5@8&5@5`59!!#5"15@5@5@8&5@5B59!!#5"15@5@5@8&5@5B59!!"S"<!h4(5I/t!A!Q
+
+.ATT
+.STATUS Zoom
+.ZOOM_GRF
+.ATT_END
+.EQN 2 -8 66 0 0
+2
+.TXT 0 19 69 0 0
+Cg a53.000000,53.000000,4
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;}{\fonttbl{\f0\fcharset0
+\fnil Arial;}}\plain\cf1\fs20 \pard zoom}
+.EQN 3 -11 145 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 3790 3800 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!-#%Aa"C6s!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!9Q5Y-0!8!&59&K"S"<!h4(4'/t!A!.!'HF8&8&4.5@5@5@!!!.!'HF5P8(;.:j5@5@!!!.!'HF5A5`4.5`5@5@!!!.!'HF86@64.5B5@5@!!!.!'HF5B4/5P5@:j5@!!!.!'HF5B5I!(5@:j5@!!!.!'HF5`59LG5@5`5@
+!!!.!'G-"S"CJF"C"S!!!!!.!'HF5`5@"~)85`5@!!!.!'HF:j5@46?M5@5@!!!.!'HF:j5@5I@r":5@!!!.!'HF:j5@4.#`)85@!!!.!'HF:j5@4.42!!5@!!!.!'HF5@5@4.596l":!!!.!'HF5@5@4.5@"T":!!!.!'HF5@5@4.5@4'5@!!!*!(9U59$w!x4)!!9Q5Y-0!8!&59&K
+
+.ATT
+.STATUS Trace
+.TRACE_DLG
+.ATT_END
+.EQN 2 -8 74 0 0
+3
+.TXT 0 19 75 0 0
+Cg a53.000000,53.000000,5
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;}{\fonttbl{\f0\fcharset0
+\fnil Arial;}}\plain\cf1\fs20 \pard trace}
+.EQN 3 -11 77 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*sDG3m8787!!!!87876k$GDG3m876k8187!)878?JSDG3m87"L81878/8774%iDG3m8/8G818787"K776kDG3m6s:{8187876s6t'MDG3m6s:{8187876s7pDgDG3m"C878187878/7@*3DG3m"L87818787
+8/949aDG3m!J&m&t;'&m&k88)aDG3m"L878A88878/8#H_DG3m"L878887:{8/9./=DG3m"K:{8187:{8/7>L'DG3m6s:{8187:{6s8):CDG3m6s8H8188876s7L+EDG3m8/87;.;-87"K7Q)aDG3m87"K81878/877y!QDG3m876k8187!)877547DG3m8787!!!!87878J=y4'5Y=a!3<8(r!Q
+
+.ATT
+.STATUS Polar Plot  Ctrl+7
+.PASTEKEY -279
+.ATT_END
+.EQN 2 -8 78 0 0
+4
+.TXT 0 19 79 0 0
+Cg a62.000000,62.000000,10
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 polar plot}}
+.EQN 0 17 93 0 0
+-279
+.EQN 3 -28 88 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!,!(9Y8/%)!96l%)#f"s"<"K6l!!%1!3&L&KDG5Y5Q!1!"Iq%1!1+v!!DG3e"K87878/#dIy8/%)DG3eIq8787!!LVIy7-!ADG3m#U!!!!LGLVIy7Q+uDG3m#ULV#dLGLVIq6l9aDG3m6z#d#dLGLV!!7/!ADG
+3m6z#dJ"LV!!LG6k!!DG3m8/!0J"Iq#dLG7&9aDG3m8/Iq!!#d#dLG6m!ADG3m87#ULGLV#dJ"!!!!DG3m876kLGLVIq#d!T)1DG3m876k#d#d!!LG8:7=DG3m878/Iq!!LGIy8g@?DG3m8787!0J"LG"K7Q8_DG3m87878/LGIy878{-9>{5Y0'!A!$8/%u!5?$!(9[8/%m!<7=
+
+.ATT
+.STATUS Surface Plot  Ctrl+2
+.PASTEKEY -258
+.ATT_END
+.EQN 2 -8 92 0 0
+5
+.TXT 0 19 90 0 0
+Cg a62.000000,62.000000,12
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+surface plot}}
+.EQN 0 17 91 0 0
+-258
+.EQN 3 -28 101 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!9#f*s>{5Y%)"C!""C#e!2,$!'HOLVLVLVLKLVIy9`,$!'HOLV,[,fLV.ZIy'^An!'HOLKLVLKLV.ZIy(7!.!'HOJbL#DF.ZJbIy"U1N!'HOJbDFL&.ZLKIy1~&X!'HOJbDFL&JbLV+})d1N!'HOJbL#CtJbLVIy
+Gf#r!'HOLKLVLVLK.ZIy8B)>!'HOLV,fLVCtJbIy4u9^!'HOLVLKLSLSLKIyF`,$!'HO,fLKLSLVD;Iy)PDT!'HOLKLV.WLVD;Iy5r.h!'HOLV.Z.ZCqLKIy+hDT!'HOLV.ZJbLVJbIy,Z)>!'HOLVJbLK,[.ZIy3E)>!'HOLVLKLVLVLV+}'t#p!(9R6k6k!16l;E%S"3"<"k6l(/$5
+
+.ATT
+.STATUS Contour Plot  Ctrl+5
+.PASTEKEY -280
+.ATT_END
+.EQN 2 -8 104 0 0
+6
+.TXT 0 19 99 0 0
+Cg a62.000000,62.000000,12
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+contour plot}}
+.EQN 0 17 107 0 0
+-280
+.EQN 3 -28 112 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!>{5Y%1"3!""C%1!A!.!'HW"\"3Ce59;%"K!!!.!'HW"\!!Ce"3;%#m,;&X!'HW"\!1Ce+u;%#m#e#r!'HW"\!1Ce+u;%#m&e9^!'HW"\!1Ce+u;%#m!A!.!'HW"\!1Ce+u;%#m7e,$
+!'HW"\!1Ce+u!!#m!!!.!'HW"\!1Ce+}!2!)!!!.!'HW!!!1Ce+}6k!)!!!.!'HW6l#eCe+}8787!C!.!'HW8/!!!!+}87878t6x!'HW8787!e!)8787"^!.!'HW87876k!)8787,y+|!(9[8/#r!59X!(9[8/$2!:!(!(9[8/#k!3,G
+
+.ATT
+.STATUS 3D Bar Chart
+.PASTEKEY -287
+.ATT_END
+.EQN 2 -8 113 0 0
+7
+.TXT 0 19 118 0 0
+Cg a53.000000,53.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 3d bar}}
+.EQN 0 17 115 0 0
+-287
+.EQN 3 -28 119 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K"S"<!96l!!87!A!.!'HW8/8788878787!!!.!'HW87"K8H:{8787!!!.!'HW87!)88878787!!!.!'HW87:s87"K"K"K!!!.!'HW88;-!!!!!!!)!!!.!'HW87:{"K878787!!!*!(9U8/#m!y6m
+!!DG3m8887!)8788876k!!DG3m8H:{6s878H:{6k!!DG3m88876s8788876k!!DG5Y*[!9!""C0'!1&L&kDG5Y-A!16l8?-A!5+v!!DG3m87:{6s;.87876{"CDG3m88;-!)8G87:{6m&kDG3m87:{6s8788;-7Q,WDG3m87876s8787:{8G#e4'5Y=a!1&L!$!Q
+
+.ATT
+.STATUS 3D Scatter Plot
+.PASTEKEY -285
+.ATT_END
+.EQN 2 -8 121 0 0
+8
+.TXT 0 19 122 0 0
+Cg a53.000000,53.000000,10
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 3d scatter}}
+.EQN 0 17 123 0 0
+-285
+.EQN 3 -28 124 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!.!'HW87"K6s8/87"K!!!*!(9R8/6k!16m!!9Q5Y%1!16s8/&K"S"<!96l"C87!A!.!'HO"K87878/6s87!!!.!'HW"K6s8787!)87!!!.!'HW"K8/6s8/!)87!!!.!'HW"K87!)878787!!!.!'HO"K8/!)87
+8787!!!*!(9R8/#m"K6m!!DG3m6s878787"C876k!!DG3m6s876s87!)876k!!DG3m!)6s"K87!!876k!!DG3m6s6k878787876k!!DG3m6s6k"K8787876k!!9Q5Y%1!16s8/&K"s"<!9!""C87!1&L&k>{5Y%1!16s8/$K!1!(!(9[8/#u!17=
+
+.ATT
+.STATUS Vector Field Plot
+.PASTEKEY -286
+.ATT_END
+.EQN 2 -8 125 0 0
+9
+.TXT 0 19 128 0 0
+Cg a53.000000,53.000000,6
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 vector}}
+.EQN 0 17 129 0 0
+-286

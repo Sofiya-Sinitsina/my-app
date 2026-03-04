@@ -1,0 +1,288 @@
+:Base mcad.hlp
+:Title Mathcad 7 Professional Help
+:Index Mathcad 7 Professional Help = mcad.hlp
+
+1 The Basics
+2 What you can do with Mathcad=bas_ovrview
+2 The Mathcad desktop=bas_desktop
+2 Your Mathcad worksheet=bas_regions
+2 Equation basics
+3 Evaluating an expression=bas_eval
+3 Defining a variable=bas_vardef 
+3 Defining a function=bas_funcdef 
+3 Evaluating over a range=rv_eval 
+2 Entering text=text_insert 
+2 Graphing basics
+3 Creating an xy graph=graf_create 
+3 Resizing an xy graph=graf_size 
+2 File management basics
+3 Printing=doc_print 
+3 Saving=doc_save 
+
+
+1 Equations
+2 Equation basics
+3 Entering equations=ed_editing_expr
+3 Evaluating an expression=bas_eval
+3 Defining a variable=bas_vardef 
+3 Defining a function=bas_funcdef 
+3 Variable and function names=name
+3 Built-in constants=const
+3 Numbers=num
+
+2 Equation editing
+3 Entering equations=ed_editing_expr 
+3 Editing tools=ed_tools
+3 Changing a name or number=ed_name
+3 Inserting an operator=ed_opinsert
+3 Inserting parentheses=ed_insertparens
+3 Deleting parentheses=ed_deleteparens
+3 Inserting a minus sign=ed_insminus
+3 Deleting a minus sign=ed_delminus
+3 Applying a function=ed_func
+3 Moving parts of an equation=ed_move
+3 Deleting parts of an equation=ed_deletepart
+
+2 Equation formatting
+2 Formatting numerical results=num_global
+2 Working with fonts=fonts
+2 Highlighting equations=highlight_eqn
+2 Viewing a numerical result in full precision=num_ctrlf 
+
+1 Text
+2 Text editing
+3 Inserting text=text_insert 
+3 Editing text=text_edit
+3 Importing text=text_import
+3 Moving text=text_move
+3 Math in text=text_math
+3 Creating hypertext links=text_jump
+
+2 Text formatting
+3 Setting wrap margins=text_width
+3 Changing the font of selected text=text_font
+3 Changing text paragraph properties=text_paragraph_properties
+3 Highlighting text=text_highlightbackground
+3 Checking the spelling of text=text_spell
+
+2 Text styles
+3 Overview=text_style_overview
+3 Applying a text style=text_style_apply
+3 Modifying a text style=text_style_modify
+3 Creating a new text style=text_style_create
+3 Deleting a text style=text_style_delete
+
+1 Computational features
+2 Controlling calculations=calc_mode
+2 Iteration=range_var
+2 Doing calculations in parallel=calc_parallel 
+2 Errors in numerical calculations=err
+2 Simplifying expressions before numerical computation=smart_symopt
+
+
+1 Layout tools
+2 Overview=bas_regions 
+2 Selecting regions=lay_selectregion
+2 Moving regions=lay_drag
+2 Deleting regions=lay_delete
+2 Blank lines between regions=lay_insdel
+2 Separating regions=lay_separate
+2 Aligning regions=lay_align
+2 Locking regions=lay_lock
+
+1 Worksheet management
+2 Overview=doc
+2 Worksheet basics
+3 Creating a new worksheet=doc_new 
+3 Opening a worksheet=doc_open 
+3 Saving a worksheet=doc_save 
+3 Closing a worksheet=doc_close 
+3 Renaming a worksheet=doc_rename 
+2 Templates
+3 Creating a new template=doc_createtemplate
+3 Modifying a template=doc_modifytemplate
+3 Using a template=doc_new
+2 Formatting worksheets
+3 Defining headers and footers=doc_hdrftr 
+3 Page layout and margins=doc_margin
+3 Including one worksheet inside another=doc_include
+3 Safeguarding worksheets=lay_lock
+2 Exporting a worksheet
+3 Mailing a worksheet=doc_mail
+3 Exporting a worksheet to another application=doc_export
+2 Printing a worksheet
+3 Printing a worksheet=doc_print
+3 Printing selected pages=doc_pgselect
+3 Printing parts of a page=doc_regselect
+3 Previewing your output=doc_prtprev
+2 References and hyperlinks to worksheets
+3 Including a reference to a worksheet=doc_include
+3 Creating a hyperlink to a worksheet=text_jump
+
+1 Vectors and matrices
+2 Overview=ra_intro
+2 Array basics
+3 Creating vectors and matrices=ra_make
+3 Computing with vectors and matrices=ra_compute
+3 Displaying vectors and matrices=ra_disp
+3 Graphing a vector=rv_vector
+2 Editing arrays
+3 Changing the size of an array=ra_resize
+3 Extracting elements=ra_extract
+3 Extracting sub-arrays=rafunc_submat
+2 Beginning arrays at an element other than zero=ra_origin
+2 Vector and matrix functions=func_ra
+2 Vector and matrix operators=raop
+2 Limits on array size=ra_limits 
+2 Nested arrays=ra_nested
+
+1 Strings
+2 Overview=str_intro
+2 Defining a variable as a string=str_var
+2 Defining a function as a string=str_funcdef
+2 String functions
+3 Concatenating strings=str_strcat
+3 Finding the length of a string=str_strlen
+3 Converting a string to a number=str_str2num
+3 Converting a number to a string=str_num2str
+3 Converting a vector to a string=str_vec2str
+3 Converting a string to a vector=str_str2vec
+3 Extracting substrings=str_substr
+3 Locating substrings=str_search
+3 Defining error messages using a string=str_error
+
+1 Functions
+     2 Built-in functions=func
+     2 User-defined functions=bas_funcdef
+     2 Customized functions=ue_intro
+
+1 Operators
+     2 Arithmetic operators=op
+     2 Calculus operators=calcop
+     2 Boolean operators=logop
+     2 Vector and matrix operators=raop
+     2 User-defined operators=opcustom
+
+1 Statistics
+     2 Population and sample statistics=stat_func
+     2 Density and distribution functions=distr
+     2 Random number generators=random
+     2 Cubic splines=stat_interp_cubic
+     2 Regression=regr
+     2 Smoothing=smooth
+     2 Interpolation=stat_interp
+     2 Prediction=stat_interp_predict
+
+
+1 Solving equations
+     2 One equation in one unknown=solve_1 
+     2 N linear equations in N unknowns=solve_lsolve
+     2 N nonlinear equations in N unknowns=solve_nl
+     2 Approximate solutions to a system of equations=solve_approx 
+     2 All roots of a polynomial=solve_root
+     2 Symbolic solution of an equation=sym_solve
+     2 Symbolic solution of a system of equations=sym_solvesys
+     2 Differential Equations=de
+
+1 Data Management
+     2 Overview=componen_overview
+     2 Introduction to components=componen_intro
+     2 Importing data=componen_import
+     2 Exporting data=componen_export
+     2 Exchanging data with other applications=componen_exchange
+     2 Functions for Reading and writing to ASCII data files=io
+
+1 Data Analysis
+     2 Statistical functions=stat
+     2 Population statistics=stat_func
+     2 Regression=regr
+     2 Interpolation=stat_interp
+
+1 Graphs in two dimensions
+     2 Cartesian (XY) graphs=graf
+     2 Polar plots=polar
+
+1 Graphs in three dimensions
+     2 Surface plots=graf_surface
+     2 Contour plots=contour_graf
+     2 3D bar charts=graf_bar
+     2 Scatter plots=graf_scatter
+     2 Vector field plots=vector_graf
+
+1 Symbolic calculation
+     2 Overview of symbolic calculation=symbolic
+     2 Live symbolic evaluation=smart_livesym
+     2 Using keywords for live symbolic evaluation=smart_usekeys
+     2 Symbolic algebra=symbolic_algebra
+     2 Symbolic calculus=symbolic_calculus
+     2 Solving equations symbolically=symbolic_solve
+     2 Symbolic matrix manipulation=symbolic_matrix
+     2 Symbolic transforms=symbolic_transform
+     2 Using functions and variables=symbolic_funcvar
+
+1 Units and dimensions
+2 Overview=unit
+2 Attaching units to a variable=unit_attach
+2 Unit conversions=unit_cnvrt
+2 Choosing a system of units=unit_system
+2 Defining a new unit=unit_define
+2 Renaming dimensions=unit_rename
+2 Built-in units=unit_insert
+    
+1 Programming
+     2 Overview=programming
+     2 What is a program?=prog_whatis
+     2 Defining a program=prog_define
+     2 Conditional statements=prog_conditional
+     2 Program loops=prog_loop
+     2 Evaluating a program symbolically=prog_sym
+     2 Programming examples=prog_examples
+ 
+1 Animation
+     2 Overview=anim_intro
+     2 Creating the animation=anim_create
+     2 Playing back the animation=anim_play
+     2 Saving the animation=anim_save
+     2 Animation examples=anim_examples
+
+1 Importing graphics
+     2 Overview=graf_sketch
+     2 Importing from the clipboard=graf_importbitmap 
+     2 Importing from a file=graf_filename
+     2 Importing by dragging from another application=ole_drag
+     2 Inserting a graphics object=graf_insobj
+     2 Editing an imported graphics image=ole_edit
+     2 Image processing=sk_funcs
+
+1 The Resource Center
+     2 Opening the Resource Center=h_openRC
+     2 Resource Center toolbar=h_palettRC
+     2 Searching through the Resource Center=h_searchRC
+     2 Browsing through the Resource Center=h_browseRC
+     2 Browsing the Web with the Resource Center=h_webbrowse
+     2 Copying information from the Resource Center=h_pasteRC
+     2 Making notes in the Resource Center=h_annotRC
+
+1 The Collaboratory
+     2 Using the Collaboratory=doc_Internet
+     2 Connecting to the Internet=doc_internet_connect
+     2 Sending a text message to the Collaboratory=doc_nettextsave
+     2 Sending a file to the Collaboratory=doc_netfilesave
+     2 Sending a worksheet to the Collaboratory=doc_netsave
+     2 Deleting a topic from the Collaboratory=doc_netdel
+
+1 Electronic Books
+     2 Overview=hbk
+     2 Browsing through a Book=h_browse
+     2 Searching through a Book=h_search
+     2 Copying information from an Electronic Book=h_paste
+     2 Making notes in a Book=h_annot
+     2 Additional books=h_additi
+
+1 Keyboard help
+     2 Greek letters=keyb_greek
+     2 Operators=keyb_op
+     2 Worksheets and windows=keyb_doc
+     2 Editing=keyb_edit
+     2 Cursor movement=keyb_cursor
+     2 Creating regions=keyb_create

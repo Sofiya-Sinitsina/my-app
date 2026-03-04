@@ -1,0 +1,147 @@
+.MCAD 304020000 1 74 506 506
+.TXT 2 1 42 0 0
+Cg a73.000000,73.000000,19
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Filename: EQUAL.PAL}}
+.TXT 4 0 2 0 0
+Cg a70.000000,70.000000,35
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;\red0\green0\blue128;}{
+\fonttbl{\f0\fcharset0\fnil Arial;}}\plain\cf1\fs20 \pard {\cf2 
+Palette: Equals and Boolean Symbols}}
+.TXT 6 9 3 0 0
+Cg a70.000000,70.000000,7
+{\rtf\ansi \deff0{\colortbl;\red0\green0\blue0;}{\fonttbl{\f0\fcharset0
+\fnil Arial;}}\plain\cf1\fs20 \pard .Layout}
+.EQN 2 -3 495 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!.!'HW87!!!!!)8787!!!.!'HW87!!!!!)8787!!!&!(9[8/&K!q"<"k6m!!DG3m876k!!!!87876k!!DG3m876k!!!!87876k!!.[
+5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!Q
+
+.ATT
+.STATUS Boolean Equals  Ctrl+=
+.PASTEKEY -236
+.ATT_END
+.EQN 0 3 496 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:DH'}4'5Y=a!3>|,74'5Y=a!71B?]4'5Y=a!>DH2s4'5Y=a!<>|B#>{5Y'u!16r8/$m!:,"!(9S8/%)";6lF[$0"s"<!Y6l"C2k!3>|,7DG3m876k!!!!87877S:3>{5Y-A!16p8/%7!4<B!(9U8/%)!y6l>+$8
+#5"1878/!!!!"K878<J^"s"<!y6l6k-A!44(:S>{5Y2k!16n8/%T!9<B!(9W8/%)!Y6l59$j"3"<"k6l5y%7"3"<"k6lE)$4"3"<"k6lLG$p"3"<"k6l6[$b"3"<"k6l.K$$
+
+.ATT
+.STATUS Not Equal to  Ctrl+3
+.PASTEKEY -237
+.ATT_END
+.EQN 0 3 497 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K"S"<"+6l"C*[!A!*!(9W8/%)!Y6m!!DG3m876k!!!!!)876k!!9Q5Y2k!9!$8/&K"S"<"+6l"C*[!A!&!(9[8/&K!q"<
+"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Evaluate Symbolically  Ctrl+.
+.PASTEKEY -276
+.ATT_END
+.EQN 0 3 498 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K"s"<!I6l6k+u!Y6m!!.[5Y=a!A!,!(9S8/%)!a!$8/&K!q"<"k6m!!>{5Y'u!9!%!!*[!A!&!(9[8/&K!q"<"k6m!!.[
+5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K
+
+.ATT
+.STATUS Global Assignment  ~
+.PASTEKEY 126
+.ATT_END
+.EQN 3 -9 499 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:DH'}4'5Y=a!3>|,74'5Y=a!71B?]4'5Y=a!>DH2s4'5Y=a!<>|B#4'5Y=a!71B:34'5Y=a!>DH'}DG5Y0'!9!""C*[!3>|,7DG5Y-A!9!"!!-A!51B:3DG5Y*[!9!"!!0'!9G.*sDG5Y'u!9!"!!2k!;>|)ADG
+5Y*[!9!"!!0'!>Ir-iDG5Y-A!9!"!!-A!44(:SDG5Y0'!9!""C*[!;>|8O4'5Y=a!84(1q4'5Y=a!8>|914'5Y=a!>+v(_4'5Y=a!@Ir2s4'5Y=a!8Ir0O4'5Y=a!5Ir%|!Q
+
+.ATT
+.STATUS Less Than  <
+.PASTEKEY 60
+.ATT_END
+.EQN 0 3 500 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!3<8&K4'5Y=a!71B2#4'5Y=a!1+v"C4'5Y=a!:9R!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!>{5Y'u!9!"!!2k!A!,!(9T8/%)!1!&8/&K"s"<!i6l6k#e!i6m!!>{5Y0'!9!""C*[!A!,!(9U8/%)!1!%8/&K"s"<
+!Y6l6k#e!y6m!!>{5Y'u!9!"!!2k!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!E&{
+
+.ATT
+.STATUS Greater Than  >
+.PASTEKEY 62
+.ATT_END
+.EQN 0 3 501 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:DH'}4'5Y=a!3>|,74'5Y=a!71B?]4'5Y=a!>DH2s4'5Y=a!<>|B#DG3m876k!!!!87877s:34'5Y=a!>DH'}DG5Y0'!9!""C*[!3>|,7DG5Y-A!9!"!!-A!51B:3DG5Y*[!9!"!!0'!9G.*sDG5Y'u!9!"!!2k
+!;>|)ADG5Y*[!9!"!!0'!>Ir-iDG5Y-A!9!"!!-A!44(:SDG5Y0'!9!""C*[!;>|8O4'5Y=a!84(1q4'5Y=a!8>|914'5Y=a!>+v(_4'5Y=a!@Ir2s4'5Y=a!8Ir0O4'5Y=a!5Ir%|!Q
+
+.ATT
+.STATUS Less Than or Equal to  Ctrl+9
+.PASTEKEY -239
+.ATT_END
+.EQN 0 3 502 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!:DH'}4'5Y=a!3>|,74'5Y=a!71B?]4'5Y=a!>DH2s4'5Y=a!<>|B#DG5Y'u!9!%!!*[!71B:34'5Y=a!>DH'}DG5Y'u!9!"!!2k!3>|,7DG5Y*[!9!"!!0'!51B:3DG5Y-A!9!"!!-A!9G.*sDG5Y0'!9!""C*[
+!;>|)ADG5Y-A!9!"!!-A!>Ir-iDG5Y*[!9!"!!0'!44(:SDG5Y'u!9!"!!2k!;>|8O4'5Y=a!84(1q4'5Y=a!8>|914'5Y=a!>+v(_4'5Y=a!@Ir2s4'5Y=a!8Ir0O4'5Y=a!5Ir%|!Q
+
+.ATT
+.STATUS Greater Than or Equal to  Ctrl+0
+.PASTEKEY -238
+.ATT_END
+.EQN 3 -9 503 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!4'5Y=a!94(4'4'5Y=a!?&L)14'5Y=a!?Ir:s4'5Y=a!56l?M4'5Y=a!1#f2#DG3m8/!)878/"C"K7-2#DG3m87"K8787"C8775!!DG3m87"K87876s8797+UDG3m87"K87876s876k!!DG3m87"K8787"C876|!1DG3m8/
+!!878/"C"K6l&K>{5Y'u!16r8/%n!@G8!(9S8/#m!9!'8/&K"s"<!I6l6k#e"+6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!$!Q
+
+.ATT
+.STATUS Prefix Operator
+.PASTEKEY -299
+.ATT_END
+.EQN 0 3 504 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!(!(9[8/#m!1!(!(9[8/%F!1!(!(9[8/#j!5.`!(9[8/'d#5"187!)!)876k"K8787#5"1876s"K878/878/!!#5"1878/87878/878/!!#5"1878/87878/878/)T#5"1876s"K878/8789JN#5"187!)!)87
+6k!)83G@"s"<";6l"C'u!;>|-IDG5Y5Q!16l6k%1!8!"8/DG5Y5Q!9!"!!%1!@!"!!4'5Y=a!@!"!!4'5Y=a!<!"!!4'5Y=a!8!"!!4'5Y=a!@!"!!4'5Y=a!@!"!!4'5Y=a!@!"!$!Q
+
+.ATT
+.STATUS Postfix Operator
+.PASTEKEY -300
+.ATT_END
+.EQN 0 3 505 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!(!(9[8/#m!1!(!(9[8/%F!1!.!(9W8/%)!1!#8/#j!5.d!(9X8/%)!I6m594'5Y87!16n8/DG3e"C"K!!8787"K6k!!DG3m"C876s878/6s6k!!DG3m6s876s878/6s6n&{DG3m6s876s876s6s8^+%DG3m"C
+876s876s8/7[$7DG3e"C"K!!"K!!6k"n-I>{5Y-A!16p8/$w!96x!(9U8/#m!9!%8/&;!1!.!(9U8/%)!1!%8/&;!1!(!(9[8/%Y!1!(!(9[8/$w!1!(!(9[8/&;!1!(!(9[8/&;!1!(!(9[8/&;!1!Q
+
+.ATT
+.STATUS Infix Operator
+.PASTEKEY -301
+.ATT_END
+.EQN 0 3 506 0 0
+{   20    20 0 0}{61}
+19778 360 0 0 120
+40 20 20 1 4 0 240 0 0 0 0
+!!!!!!!!6k!!6k!!!)"C!)!!!!"C!)!!6s!!!)"C6k#%Am!!!!#d!!#d!!!!LVIqLG!!!0IqLG#dLG!!LVLV!!.[5Y=a!A!&!(9[8/&K!q"<"k6m!!DG5Y2k!9!"!!'u!11B!!>{5Y5Q!9!#8/#h!1,"!(9Y8/#m!96l7]$W#5"1!)!)8787876s8>!!#5"<!I!&8/'m!96lIq#e#5"18/87878787"C8/!!#5"18/8787878/8/8/6k#5"1
+6s"K6k"K8/87"LDG#5"1!)!)8/876k"C!!/B"S"<!i6l"C0'!H4.!(9U8/#m";6t!(9U8/#m!y6m!!DG3m8787!!"K87876k!!>{5Y-A!16p8/#h!3)>!(9U8/#m!9!%8/%X!4?*!(9U8/%)!1!%8/$U!2)8!(9[8/%T!5:#
+
+.ATT
+.STATUS Tree Operator
+.PASTEKEY -302
+.ATT_END
