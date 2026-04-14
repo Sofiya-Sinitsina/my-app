@@ -46,4 +46,4 @@ app-example
 /ios
 /android
 
-lib
+lib/appwrite.ts
