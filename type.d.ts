@@ -1,3 +1,4 @@
+import { ImageSourcePropType } from "react-native";
 import { Models } from "react-native-appwrite";
 
 export interface CustomInputProps {
@@ -33,4 +34,10 @@ export interface User extends Models.Document {
     name: string;
     email: string;
     avatar: string;
+}
+
+interface TabBarIconProps {
+    focused: boolean;
+    icon: ImageSourcePropType;
+    title: string;
 }
