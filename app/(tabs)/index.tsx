@@ -22,6 +22,7 @@ export default function Index() {
       {/* <Image source = {images.avatar} className="w-72 h-72 m-4" />
       <Image source = {images.avocado} className="w-64 h-64 m-4" />
       <Text className="text-3xl text-primary font-quicksand-medium">Edited screen's text.</Text> */}
+      {/* <Button title="Seed" onPress={() => seed().catch((error) => console.log("Failed to seed the database", error))} /> */}
       <FlatList
           data = {offers} 
           renderItem={
