@@ -1,3 +1,4 @@
+import CartTabIcon from "@/components/CartTabIcon";
 import { images } from "@/constants";
 import useAuthStore from "@/store/auth.store";
 import { TabBarIconProps } from "@/type";
@@ -62,7 +63,9 @@ export default function TabLayout() {
             name='cart'
             options={{
                 title: "Cart",
-                tabBarIcon: ({ focused }) => <TabBarIcon title="Cart" icon={images.bag} focused={focused} />
+                tabBarIcon: ({ focused }) => (
+                    <CartTabIcon focused={focused} />
+                )
             }}
         />
 
