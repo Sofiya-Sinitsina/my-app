@@ -50,7 +50,7 @@ interface GetMenuParams {
 export interface CartCustomization {
     id: string;
     name: string;
-    price: string;
+    price: number;
     type: string;
 }
 
@@ -91,7 +91,7 @@ export interface CartItemType {
   image_url: string;
   price: number;
   quantity: number;
-  customizations?: string[];
+  customizations?: CartCustomization[];
 }
 
 export interface PaymentInfoStripeProps {

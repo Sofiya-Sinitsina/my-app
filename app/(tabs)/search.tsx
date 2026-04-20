@@ -1,14 +1,15 @@
 import CartButton from "@/components/cartButton";
 import MenuCard from "@/components/MenuCard";
-import { getCategories, getMenu } from "@/lib/appwrite";
+import { getCategories, getMenu, getMenuCustomizations } from "@/lib/appwrite";
 import useAppwrite from "@/lib/useAppwrite";
-import { MenuItem } from "@/type";
+import { CartCustomization, MenuItem } from "@/type";
 import cn from "clsx";
 import { useLocalSearchParams } from "expo-router";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { FlatList, Text, View } from 'react-native';
 import { SafeAreaView } from "react-native-safe-area-context";
 
+import CustomizationModal from "@/components/CustomizationModal";
 import Filter from "@/components/Filter";
 import SearchBar from "@/components/SearchBar";
 
@@ -25,6 +26,26 @@ const Search = () => {
     console.log("getCategories =", getCategories);
     console.log("typeof getMenu =", typeof getMenu);
     console.log("typeof getCategories =", typeof getCategories);
+
+    const [selectedItem, setSelectedItem] = useState<MenuItem | null>(null);
+    const [isModalVisible, setIsModalVisible] = useState(false);
+    const [customizations, setCustomizations] = useState<CartCustomization[]>([]);
+    const [loadingCustomizations, setLoadingCustomizations] = useState(false);
+    const handleOpen = async (item: MenuItem) => {
+        setSelectedItem(item);
+        setIsModalVisible(true);
+        setLoadingCustomizations(true);
+
+        try {
+            const data = await getMenuCustomizations(item.$id);
+            setCustomizations(data);
+        } catch (e) {
+            console.log("Ошибка кастомизаций", e);
+            setCustomizations([]);
+        } finally {
+            setLoadingCustomizations(false);
+        }
+    };
     return (
         <SafeAreaView className="bg-white h-full">
             <FlatList
@@ -34,7 +55,10 @@ const Search = () => {
 
                     return (
                         <View className={cn("flex-1 max-w-[48%]", !isFirstRightColItem ? 'mt-10': 'mt-0')}>
-                            <MenuCard item={item as MenuItem} />
+                            <MenuCard 
+                                item={item as MenuItem} 
+                                onOpen={handleOpen}
+                            />
                         </View>
                     )
                 }}
@@ -61,6 +85,14 @@ const Search = () => {
                     </View>
                 )}
                 ListEmptyComponent={() => !loading && <Text>No results</Text>}
+            />
+
+            <CustomizationModal
+                visible={isModalVisible}
+                item={selectedItem}
+                customizations={customizations}
+                loading={loadingCustomizations}
+                onClose={() => setIsModalVisible(false)}
             />
         </SafeAreaView>
     )

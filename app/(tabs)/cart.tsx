@@ -4,7 +4,8 @@ import CustomHeader from "@/components/CustomHeader";
 import { useCartStore } from "@/store/cart.store";
 import { PaymentInfoStripeProps } from '@/type';
 import cn from "clsx";
-import { FlatList, Text, View } from 'react-native';
+import { router } from "expo-router";
+import { Alert, FlatList, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from "react-native-safe-area-context";
 
 const PaymentInfoStripe = ({ label,  value,  labelStyle,  valueStyle, }: PaymentInfoStripeProps) => (
@@ -42,15 +43,44 @@ const Cart = () => {
     const discountAmount = totalPrice * discountRate;
     const finalPrice = totalPrice + 5 - discountAmount;
 
+    const clearCart = useCartStore((state) => state.clearCart);
+    const handleClearCart = () => {
+        Alert.alert(
+            "Clear cart?",
+            "All items will be removed",
+            [
+                { text: "Cancel", style: "cancel" },
+                { text: "Yes", style: "destructive", onPress: clearCart }
+            ]
+        );
+    };
+
     return (
         <SafeAreaView className="bg-white h-full">
             <FlatList
                 data={items}
                 renderItem={({ item }) => <CartItem item={item} />}
-                keyExtractor={(item) => item.id}
+                keyExtractor={(item) =>
+                    `${item.id}-${(item.customizations ?? [])
+                        .map((c) => c.id)
+                        .sort()
+                        .join("-")}`}
                 contentContainerClassName="pb-28 px-5 pt-5"
                 ListHeaderComponent={() => <CustomHeader title="Your Cart" />}
-                ListEmptyComponent={() => <Text>Cart Empty</Text>}
+                ListEmptyComponent={() => (
+                    <TouchableOpacity
+                        onPress={() => router.push("/search")}
+                        className="flex-1 items-center justify-center mt-20 gap-2"
+                    >
+                        <Text className="text-dark-100 text-lg font-semibold">
+                            Your cart is empty
+                        </Text>
+
+                        <Text className="text-primary text-base">
+                            Search now →
+                        </Text>
+                    </TouchableOpacity>
+                )}
                 ListFooterComponent={() => totalItems > 0 && (
                     <View className="gap-5">
                         <View className="mt-6 border border-gray-200 p-5 rounded-2xl">
@@ -62,15 +92,18 @@ const Cart = () => {
                                 label={`Total Items (${totalItems})`}
                                 value={`$${totalPrice.toFixed(2)}`}
                             />
-                            <PaymentInfoStripe
-                                label={`Delivery Fee`}
-                                value={`$5.00`}
-                            />
+                        
                             <PaymentInfoStripe
                                 label={`Discount (${(discountRate * 100)}%)`}
                                 value={`- $${discountAmount.toFixed(2)}`}
                                 valueStyle="!text-success"
                             />
+
+                            <PaymentInfoStripe
+                                label={`Delivery Fee`}
+                                value={`$5.00`}
+                            />
+                            
                             <View className="border-t border-gray-300 my-2" />
                             <PaymentInfoStripe
                                 label={`Total`}
@@ -80,6 +113,11 @@ const Cart = () => {
                             />
                         </View>
 
+                        <TouchableOpacity onPress={handleClearCart}>
+                            <Text className="text-red-700 text-center border border-dashed border-red-700 rounded-full p-3 w-full flex flex-row justify-center mt-4">
+                                Clear cart
+                            </Text>
+                        </TouchableOpacity>
                         <CustomButton title="Order Now" />
                     </View>
                 )}
