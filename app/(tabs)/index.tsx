@@ -41,14 +41,9 @@ export default function Index() {
                           </View>
 
                           <View className={cn("offer-card__info", isEven ? 'pl-10' : 'pr-10')}>
-                            <Text>
+                            <Text className="text-white">
                               {item.title}
                             </Text>
-                            <Image source={images.arrowRight}
-                            className="size-10"
-                            resizeMode="contain"
-                            tintColor="#ffffff"
-                            />
                           </View>
                         </Fragment>
                       )

@@ -67,25 +67,25 @@ export const CATEGORIES = [
 export const offers = [
     {
         id: 1,
-        title: "SUMMER COMBO",
+        title: "UNIQUE DISCOUNT SYSTEM",
         image: burgerOne,
         color: "#d33b0d"
     },
     {
         id: 2,
-        title: "BURGER BUSH",
+        title: "CUSTOMIZE YOUR CHOICE",
         image: burgerTwo,
         color: "#df5a0c"
     },
     {
         id: 3,
-        title: "PIZZA PARTY",
+        title: "TRACK NEW PROMOCODES ON OUR INSTAGRAM",
         image: pizzaOne,
         color: "#084137"
     },
     {
         id: 4,
-        title: "BURRITO DELIGHT",
+        title: "ENJOY YOUR FOOD",
         image: burrito,
         color: "#eb920c"
     }
