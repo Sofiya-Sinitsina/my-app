@@ -1,10 +1,13 @@
 import CartItem from "@/components/CartItem";
 import CustomButton from "@/components/CustomButton";
 import CustomHeader from "@/components/CustomHeader";
+import PromoInput from "@/components/PromoInput";
+import { getPromoCode } from "@/lib/appwrite";
 import { useCartStore } from "@/store/cart.store";
 import { PaymentInfoStripeProps } from '@/type';
 import cn from "clsx";
 import { router } from "expo-router";
+import { useEffect, useState } from "react";
 import { Alert, FlatList, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from "react-native-safe-area-context";
 
@@ -39,10 +42,6 @@ const Cart = () => {
         return 0.01;
     };
 
-    const discountRate = getDiscountRate(totalPrice);
-    const discountAmount = totalPrice * discountRate;
-    const finalPrice = totalPrice + 5 - discountAmount;
-
     const clearCart = useCartStore((state) => state.clearCart);
     const handleClearCart = () => {
         Alert.alert(
@@ -54,6 +53,56 @@ const Cart = () => {
             ]
         );
     };
+
+    const [promo, setPromo] = useState("");
+    const [promoDiscount, setPromoDiscount] = useState(0);
+    const [appliedPromo, setAppliedPromo] = useState<string | null>(null);
+    const [loadingPromo, setLoadingPromo] = useState(false);
+    const applyPromo = async () => {
+        const code = promo.trim().toUpperCase();
+
+        if (!code) return;
+
+        if (appliedPromo === code) {
+            Alert.alert("Promo already applied");
+            return;
+        }
+
+        setLoadingPromo(true);
+
+        try {
+            const data = await getPromoCode(code);
+
+            if (!data) {
+                setPromoDiscount(0);
+                setAppliedPromo(null);
+                Alert.alert("Invalid promo code");
+                return;
+            }
+
+            setPromoDiscount(data.discount);
+            setAppliedPromo(code);
+
+            Alert.alert("Promo applied!");
+        } catch (e) {
+            console.log("PROMO ERROR:", e);
+            Alert.alert("Error applying promo");
+        } finally {
+            setLoadingPromo(false);
+        }
+    };
+
+    const discountRate = getDiscountRate(totalPrice);
+    const discountAmount = totalPrice * discountRate + totalPrice * promoDiscount;
+    const finalPrice = totalPrice + 5 - discountAmount;
+
+    useEffect(() => {
+        if (items.length === 0) {
+            setPromo("");
+            setPromoDiscount(0);
+            setAppliedPromo(null);
+        }
+    }, [items]);
 
     return (
         <SafeAreaView className="bg-white h-full">
@@ -92,17 +141,39 @@ const Cart = () => {
                                 label={`Total Items (${totalItems})`}
                                 value={`$${totalPrice.toFixed(2)}`}
                             />
-                        
-                            <PaymentInfoStripe
-                                label={`Discount (${(discountRate * 100)}%)`}
-                                value={`- $${discountAmount.toFixed(2)}`}
-                                valueStyle="!text-success"
-                            />
 
                             <PaymentInfoStripe
                                 label={`Delivery Fee`}
                                 value={`$5.00`}
                             />
+                        
+                            <PaymentInfoStripe
+                                label={`Discount (${discountRate > 0 ? "-" : "+"}${Math.abs(discountRate * 100).toFixed(0)}%)`}
+                                value={`${discountAmount > 0 ? "-" : "+"} $${Math.abs(totalPrice * discountRate).toFixed(2)}`}
+                                valueStyle="!text-success"
+                            />
+
+                            {promoDiscount != 0 && (
+                                <PaymentInfoStripe
+                                    label={`Promo ${appliedPromo} (${promoDiscount > 0 ? "-" : "+"} $${Math.abs((promoDiscount * 100)).toFixed(0)}%)`}
+                                    value={`${promoDiscount > 0 ? "-" : "+"} $${Math.abs((totalPrice * promoDiscount)).toFixed(2)}`}
+                                    valueStyle="!text-success"
+                                />
+                            )}
+
+                            <PromoInput
+                                promo={promo}
+                                setPromo={setPromo}
+                                applyPromo={applyPromo}
+                                loadingPromo={loadingPromo}
+                            />
+                            
+
+                            {appliedPromo && (
+                                <Text className="text-success mt-2">
+                                    Promo "{appliedPromo}" applied
+                                </Text>
+                            )}
                             
                             <View className="border-t border-gray-300 my-2" />
                             <PaymentInfoStripe
